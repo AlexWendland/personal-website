@@ -6,6 +6,17 @@
 	"image": "mcr.microsoft.com/devcontainers/base:bullseye",
 	"features": {
 		"ghcr.io/devcontainers/features/node:1": {}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"znck.vue",
+				"sdras.vue-vscode-snippets",
+				"GitHub.copilot",
+				"formulahendry.auto-close-tag",
+				"bradlc.vscode-tailwindcss"
+			]
+		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
