@@ -2,6 +2,8 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+To set this up I followed [this guide](https://www.youtube.com/watch?v=GBdO5myZNsQ&list=PL4cUxeGkcC9haQlqdCQyYmL_27TesCGPC&index=1&ab_channel=TheNetNinja) by The Net Ninja.
+
 ## Setup
 
 Make sure to install the dependencies:
