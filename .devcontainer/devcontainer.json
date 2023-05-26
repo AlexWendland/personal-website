@@ -14,7 +14,8 @@
 				"sdras.vue-vscode-snippets",
 				"GitHub.copilot",
 				"formulahendry.auto-close-tag",
-				"bradlc.vscode-tailwindcss"
+				"bradlc.vscode-tailwindcss",
+				"PKief.material-icon-theme"
 			]
 		}
 	}
