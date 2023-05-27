@@ -21,8 +21,4 @@ if (!product.value) {
     fatal: true
   })
 }
-
-definePageMeta({
-  layout: "product"
-})
 </script>

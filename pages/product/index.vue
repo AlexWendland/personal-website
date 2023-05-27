@@ -7,10 +7,6 @@
 </template>
 
 <script setup>
-definePageMeta({
-  layout: "product"
-})
-
 const { data: products } = await useFetch('https://fakestoreapi.com/products')
 
 </script>
