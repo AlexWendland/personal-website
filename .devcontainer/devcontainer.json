@@ -16,7 +16,8 @@
 				"formulahendry.auto-close-tag",
 				"bradlc.vscode-tailwindcss",
 				"PKief.material-icon-theme",
-				"Vue.volar"
+				"Vue.volar",
+				"pomdtr.excalidraw-editor"
 			]
 		}
 	}
