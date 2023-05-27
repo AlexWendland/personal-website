@@ -317,7 +317,7 @@
       "x": 1049,
       "y": -368,
       "width": 388,
-      "height": 790.9999999999999,
+      "height": 864.9999999999999,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -331,11 +331,11 @@
         "type": 3
       },
       "seed": 1768250814,
-      "version": 208,
-      "versionNonce": 79717438,
+      "version": 227,
+      "versionNonce": 344054242,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1685175115016,
+      "updated": 1685175497788,
       "link": null,
       "locked": false
     },
@@ -540,8 +540,8 @@
       "type": "line",
       "x": 1141,
       "y": -122,
-      "width": 3,
-      "height": 529,
+      "width": 4,
+      "height": 580,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "#ced4da",
@@ -555,11 +555,11 @@
         "type": 2
       },
       "seed": 1627734370,
-      "version": 163,
-      "versionNonce": 393487778,
+      "version": 198,
+      "versionNonce": 1794361470,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1685175115016,
+      "updated": 1685175500959,
       "link": null,
       "locked": false,
       "points": [
@@ -568,8 +568,8 @@
           0
         ],
         [
-          3,
-          529
+          4,
+          580
         ]
       ],
       "lastCommittedPoint": null,
@@ -582,9 +582,9 @@
       "id": "2MMCZaShEDmccz3GEcqjb",
       "type": "text",
       "x": 1149,
-      "y": -123,
-      "width": 262.2196960449219,
-      "height": 525,
+      "y": -124,
+      "width": 273.21966552734375,
+      "height": 550,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "#ced4da",
@@ -596,8 +596,8 @@
       "groupIds": [],
       "roundness": null,
       "seed": 328941858,
-      "version": 853,
-      "versionNonce": 1703148926,
+      "version": 1034,
+      "versionNonce": 193991038,
       "isDeleted": false,
       "boundElements": [
         {
@@ -617,26 +617,26 @@
           "type": "arrow"
         }
       ],
-      "updated": 1685175115017,
+      "updated": 1685175494389,
       "link": null,
       "locked": false,
-      "text": "Values\nEveryone wants to make \nthe world better. What \ndoes better look like for\nyou?\n\nEducation\nYou can only use what you\nknow. What are you not\nusing? \n\nPersonal projects\nWe are what we do not \nwho we say we are. Who\nare you?\n\nWork\nIf we are supposed to \nlove life and achieve a \nwork life balance. What \nare you doing during work?",
+      "text": "Values\nEveryone wants to make \nthe world better. What \ndoes better look like for\nyou?\n\nEducation\nYou can only use what you\nknow. What are you not\nusing? \n\nPersonal projects\nEveryone has ideas, its \nwhat you make that says\nwho you are. Who are you? \n\nWork\nIf we are supposed to \nlove life and achieve a \nwork life balance. What \nare you supposed to be \ndoing during work?",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 518,
+      "baseline": 543,
       "containerId": null,
-      "originalText": "Values\nEveryone wants to make \nthe world better. What \ndoes better look like for\nyou?\n\nEducation\nYou can only use what you\nknow. What are you not\nusing? \n\nPersonal projects\nWe are what we do not \nwho we say we are. Who\nare you?\n\nWork\nIf we are supposed to \nlove life and achieve a \nwork life balance. What \nare you doing during work?",
+      "originalText": "Values\nEveryone wants to make \nthe world better. What \ndoes better look like for\nyou?\n\nEducation\nYou can only use what you\nknow. What are you not\nusing? \n\nPersonal projects\nEveryone has ideas, its \nwhat you make that says\nwho you are. Who are you? \n\nWork\nIf we are supposed to \nlove life and achieve a \nwork life balance. What \nare you supposed to be \ndoing during work?",
       "lineHeight": 1.25
     },
     {
       "id": "nu3wHCVX4ThpRWksnt_7R",
       "type": "arrow",
-      "x": 1414,
-      "y": -42.16200507476094,
-      "width": 207,
-      "height": 265.75128371013307,
+      "x": 1424.9999694824219,
+      "y": -43.31644430939258,
+      "width": 196.00003051757812,
+      "height": 260.8776608880516,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "#ced4da",
@@ -650,11 +650,11 @@
         "type": 2
       },
       "seed": 1747462626,
-      "version": 343,
-      "versionNonce": 1231265214,
+      "version": 705,
+      "versionNonce": 2093822398,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1685175115017,
+      "updated": 1685175494390,
       "link": null,
       "locked": false,
       "points": [
@@ -663,8 +663,8 @@
           0
         ],
         [
-          207,
-          -265.75128371013307
+          196.00003051757812,
+          -260.8776608880516
         ]
       ],
       "lastCommittedPoint": null,
@@ -756,10 +756,10 @@
     {
       "id": "VgEFvlLAc3WalEny_-571",
       "type": "arrow",
-      "x": 1421,
-      "y": 55.157685785146555,
-      "width": 199,
-      "height": 2.89220205980552,
+      "x": 1431.9999694824219,
+      "y": 60.608853365306615,
+      "width": 188.00003051757812,
+      "height": 0.13487766160213965,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "#ced4da",
@@ -773,11 +773,11 @@
         "type": 2
       },
       "seed": 100841406,
-      "version": 326,
-      "versionNonce": 906708130,
+      "version": 688,
+      "versionNonce": 1107053054,
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1685175115017,
+      "updated": 1685175494390,
       "link": null,
       "locked": false,
       "points": [
@@ -786,8 +786,8 @@
           0
         ],
         [
-          199,
-          2.89220205980552
+          188.00003051757812,
+          -0.13487766160213965
         ]
       ],
       "lastCommittedPoint": null,
@@ -879,10 +879,10 @@
     {
       "id": "Q0aOhX4-aJBLTAwhuWk98",
       "type": "arrow",
-      "x": 1422,
-      "y": 217.59982546422063,
-      "width": 197,
-      "height": 92.57446902740398,
+      "x": 1432.9999694824219,
+      "y": 228.01235585226482,
+      "width": 186.00003051757812,
+      "height": 84.6105979928625,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "#ced4da",
@@ -896,11 +896,11 @@
         "type": 2
       },
       "seed": 743696446,
-      "version": 265,
-      "versionNonce": 857211938,
+      "version": 627,
+      "versionNonce": 1007968894,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1685175115017,
+      "updated": 1685175494390,
       "link": null,
       "locked": false,
       "points": [
@@ -909,8 +909,8 @@
           0
         ],
         [
-          197,
-          92.57446902740398
+          186.00003051757812,
+          84.6105979928625
         ]
       ],
       "lastCommittedPoint": null,
@@ -968,9 +968,9 @@
       "id": "PpGJ_gRz20tvMEsstvEvt",
       "type": "text",
       "x": 1629.1302490234375,
-      "y": 331.5,
+      "y": 319,
       "width": 407.739501953125,
-      "height": 50,
+      "height": 75,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "#ced4da",
@@ -982,30 +982,30 @@
       "groupIds": [],
       "roundness": null,
       "seed": 2144131234,
-      "version": 100,
-      "versionNonce": 193408994,
+      "version": 163,
+      "versionNonce": 774070818,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1685175115017,
+      "updated": 1685175541520,
       "link": null,
       "locked": false,
-      "text": "Page on Personal projects. With links to \ntheir implemenetations.",
+      "text": "Page on Personal projects. With links to \ntheir implemenetations. Include Obsidian \nhere. Links to github.",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "center",
       "verticalAlign": "middle",
-      "baseline": 43,
+      "baseline": 68,
       "containerId": "Vo_uDcqs1ZgiuE8qqlFh8",
-      "originalText": "Page on Personal projects. With links to their implemenetations.",
+      "originalText": "Page on Personal projects. With links to their implemenetations. Include Obsidian here. Links to github.",
       "lineHeight": 1.25
     },
     {
       "id": "NzsycwenNTmYCFxKJgkOo",
       "type": "arrow",
-      "x": 1368.6073828090186,
-      "y": 410,
-      "width": 216.39261719098135,
-      "height": 276.4177638679729,
+      "x": 1381.4099020313004,
+      "y": 434.0000000000001,
+      "width": 203.59009796869964,
+      "height": 254.70647378811543,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "#ced4da",
@@ -1019,11 +1019,11 @@
         "type": 2
       },
       "seed": 374560610,
-      "version": 412,
-      "versionNonce": 748348322,
+      "version": 776,
+      "versionNonce": 385368354,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1685175115017,
+      "updated": 1685175547598,
       "link": null,
       "locked": false,
       "points": [
@@ -1032,8 +1032,8 @@
           0
         ],
         [
-          216.39261719098135,
-          276.4177638679729
+          203.59009796869964,
+          254.70647378811543
         ]
       ],
       "lastCommittedPoint": null,
@@ -1090,10 +1090,10 @@
     {
       "id": "lgNCN1VP0WV-d-8iJyyZr",
       "type": "text",
-      "x": 1636.3602294921875,
-      "y": 666,
-      "width": 407.279541015625,
-      "height": 50,
+      "x": 1631.3602294921875,
+      "y": 653.5,
+      "width": 417.279541015625,
+      "height": 75,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "#ced4da",
@@ -1105,21 +1105,21 @@
       "groupIds": [],
       "roundness": null,
       "seed": 1310831074,
-      "version": 131,
-      "versionNonce": 545398626,
+      "version": 165,
+      "versionNonce": 464570594,
       "isDeleted": false,
       "boundElements": null,
-      "updated": 1685175115017,
+      "updated": 1685175556257,
       "link": null,
       "locked": false,
-      "text": "Simple page on my Work experience \nHighlightling the key projects I worked on.",
+      "text": "Simple page on my Work experience \nHighlightling the key projects I worked on. \nLink to LinkedIn here.",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "center",
       "verticalAlign": "middle",
-      "baseline": 43,
+      "baseline": 68,
       "containerId": "4U4u2-wH_sOXYpBKtcKMR",
-      "originalText": "Simple page on my Work experience Highlightling the key projects I worked on.",
+      "originalText": "Simple page on my Work experience Highlightling the key projects I worked on. Link to LinkedIn here.",
       "lineHeight": 1.25
     },
     {
