@@ -13,8 +13,10 @@
             <a href="https://github.com/AlexWendland" class="gray-button">Github</a>
           </li>
         </ul>
+        <!-- TODO #2 Create proper bug reporting system -->
         <div class="flex align-middle">
-          <a href="https://github.com/AlexWendland/personal-website/issues/new" class="red-button align-middle">Report a bug</a>
+          <a href="https://github.com/AlexWendland/personal-website/issues/new" class="red-button align-middle">Report a
+            bug</a>
         </div>
       </nav>
     </header>
@@ -26,5 +28,5 @@
 </template>
 
 <style scoped>
-@media screen and (min-width: )
+@media screen and (min-width:)
 </style>
