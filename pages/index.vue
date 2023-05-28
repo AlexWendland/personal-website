@@ -9,23 +9,94 @@
     </div>
     <img src="~/assets/images/me.jpg" alt="An extraordinarily handsome man." class="rounded-xl shadow-xl" />
   </div>
-  <div class="grid grid-cols-7">
-    <div class="self-start sticky h-5/6 top-24 col-span-1 border-r-4 border-black border-double py-20">
-      About
-    </div>
-
-    <div class="col-span-6 px-4">
-      <div class="py-24">
-        <h1 class='font-bold text-lg p-2'>Values</h1>
-        <p>Everyone wants to make the world better. What does better look like for you?</p>
-        <ul class="px-10">
-          <li>Truth</li>
-          <li>Equality</li>
-          <li>Well-being</li>
-          <li>Improvement</li>
-          <li>Change the system</li>
-        </ul>
-      </div>
-    </div>
-  </div>
+  <AboutBar :about_cards="about_cards" />
 </template>
+
+<script setup>
+const about_cards = [
+  {
+    name: "Values",
+    question: "Everyone wants to make the world better. What does better look like for you?",
+    link: "/values",
+    points: [
+      {
+        name: "Truth",
+        link: "/values#Truth"
+      },
+      {
+        name: "Equality",
+        link: "/values#Equality"
+      },
+      {
+        name: "Improvement",
+        link: "/values#Improvement"
+      },
+      {
+        name: "Well-being",
+        link: "/values#Well-being"
+      },
+      {
+        name: "Change the System",
+        link: "/values#Change the System"
+      }
+    ],
+  },
+  {
+    name: "Education",
+    question: "You can only use what you know. What are you not using?",
+    link: "/education",
+    points: [
+      {
+        name: "Masters of Computer Science, Georgia Tech",
+        link: "/education#Masters of Computer Science"
+      },
+      {
+        name: "PhD in Mathematics, University of Warwick",
+        link: "/education#PhD in Mathematics"
+      },
+      {
+        name: "Masters of Mathematics, University of Warwick",
+        link: "/education#Masters of Mathematics"
+      },
+      {
+        name: "Youtube, My bedroom",
+        link: "/education#Youtube"
+      }
+    ],
+  },
+  {
+    name: "Personal projects",
+    question: "Everyone has ideas, its what you make that says who you are. Who are you?",
+    link: "/personal_projects",
+    points: [
+      {
+        name: "Personal Website",
+        link: "/personal_projects#Personal Website"
+      },
+      {
+        name: "Obsidian",
+        link: "/personal_projects#Obsidian"
+      }
+    ],
+  },
+  {
+    name: "Work",
+    question: "If we are supposed to love life but achieve a work life balance. How do you feel about work?",
+    link: "/work",
+    points: [
+      {
+        name: "CryptoCompare",
+        link: "/work#CryptoCompare"
+      },
+      {
+        name: "Faststream",
+        link: "/work#Faststream"
+      },
+      {
+        name: "Teaching",
+        link: "/work#Teaching"
+      }
+    ],
+  }
+]
+</script>
