@@ -1,8 +1,9 @@
 <template>
   <div>
     <header class="shadow-sm bg-stone-400 sticky top-0 z-50">
+      <!-- TODO #3 Sort navbar wrapping to snap to list when screen gets too small -->
       <nav class="container mx-auto p-4 flex justify-between items-center">
-        <ul class="mb:flex flex-wrap gap-4 align-middle">
+        <ul class="flex flex-wrap gap-4 align-middle">
           <li>
             <NuxtLink to='/'>Home</NuxtLink>
           </li>
@@ -27,6 +28,4 @@
   </div>
 </template>
 
-<style scoped>
-@media screen and (min-width:)
-</style>
+<style scoped></style>

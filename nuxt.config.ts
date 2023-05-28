@@ -3,11 +3,11 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss'],
   app: {
     head: {
-      title: 'Test Site',
+      title: 'Alex Wendland',
       meta: [
         {
-          name: 'description',
-          content: 'Test Site',
+          name: 'Alex Wendland\'s Personal Site',
+          content: 'This contains information about Alex Wendland and his projects.',
         },
       ],
       link: [
