@@ -34,6 +34,8 @@ Start the development server on `http://localhost:3000`
 npm run dev
 ```
 
+For the purpose of developing this website I used [Hero Icons](https://heroicons.com/).
+
 ## Production
 
 Build the application for production:
