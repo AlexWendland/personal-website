@@ -13,7 +13,7 @@
               Home</NuxtLink>
           </li>
           <li>
-            <a href="https://publish.obsidian.md/awendland/Welcome" class="gray-button">Obsidian</a>
+            <a href="obsidian.awendland.co.uk" class="gray-button">Obsidian</a>
           </li>
           <li>
             <a href="https://github.com/AlexWendland" class="gray-button">Github</a>
