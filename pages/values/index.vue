@@ -34,7 +34,7 @@ const values = [
       ",
     quote_data: {
       quote: "It\'s not anyone else's responsibility to show us the truth. It's our \
-      responsibility to find it",
+      responsibility to find it.",
       author: "The mom test"
     },
     evidence: [
@@ -70,7 +70,7 @@ const values = [
   {
     name: "Improvement",
     explanation: "\
-      To improve is to make something score higher in some objective function. \
+      To improve is to make something score higher in an objective function. \
       Normally actions have payoffs - you might make a wheel spin faster but be \
       more vulnerable to breaking. Nothing is permanent so why not make that \
       change agree with your values? After all, actions are what matter. \
@@ -82,37 +82,51 @@ const values = [
     },
     evidence: [
       "Learning in public,",
-      "Regular self reviews, and",
+      "Regular self reviews,",
+      "Contribute to the latest technology, and",
       "Being vocal about my values."
     ]
   },
   {
     name: "Well-being",
     explanation: "\
-      Words words words \
-    ",
+      Whilst suffering is not inherently bad, we all act to minimise the \
+      suffering we have not chosen. Suffering is subjective - what one person \
+      finds painful another might find pleasurable - however, providing the \
+      basics of \<a href=\"https:\/\/scottbarrykaufman.com\/sailboat-metaphor\/\" \
+      class=\"text-decoration-line: underline\"\>\ Maslow's hierarchy of \
+      needs<\/a\> to everyone seems like a good start. \
+      ",
     quote_data: {
-      quote: "Nice quote",
-      author: "Some person"
+      quote: "Compassion is not just about feeling the pain of others; it is \
+        about taking action to reduce that pain.",
+      author: "Tenzin Gyatso"
     },
     evidence: [
-      "thing I do,",
-      "thing I do, and",
-      "thing I do."
+      "Practice meditation for metal well-being,",
+      "Giving effectively,",
+      "Promote a culture of well-being and compassion, and",
+      "Veganism for the long term good."
     ]
   },
   {
     name: "Change the system",
     explanation: "\
-      Words words words \
+      Whilst living your morals is required, the most effective change comes \
+      by writing systems to reflect these values. For me, the most important \
+      system is the code that runs the applications we rely on every day. \
+      Making decisions is hard - make it once and automate to save work or \
+      better make the default option aligned with your values.\
     ",
     quote_data: {
-      quote: "Many hands make light work."
+      quote: "The secret of change is to focus all of your energy not on \
+      fighting the old, but on building the new.",
+      author: "Socrates"
     },
     evidence: [
-      "thing I do,",
-      "thing I do, and",
-      "thing I do."
+      "Politically engaged,",
+      "Coding, and",
+      "Automating habits."
     ]
   }
 ]

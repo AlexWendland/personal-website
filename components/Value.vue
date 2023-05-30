@@ -1,9 +1,7 @@
 <template>
   <div class="p-4">
     <h2 class="p-4 text-2xl font-bold" :id="`${name}`">{{ name }}</h2>
-    <div>
-      {{ explanation }}
-    </div>
+    <div v-html="explanation"></div>
     <div v-if="quote_data">
       <Quote :author="quote_data.author" :quote="quote_data.quote" />
     </div>
