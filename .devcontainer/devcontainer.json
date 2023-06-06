@@ -12,12 +12,12 @@
 			"extensions": [
 				"znck.vue",
 				"sdras.vue-vscode-snippets",
-				"GitHub.copilot",
 				"formulahendry.auto-close-tag",
 				"bradlc.vscode-tailwindcss",
 				"PKief.material-icon-theme",
 				"Vue.volar",
-				"pomdtr.excalidraw-editor"
+				"pomdtr.excalidraw-editor",
+				"GitHub.copilot-nightly"
 			]
 		}
 	}
