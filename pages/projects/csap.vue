@@ -1,12 +1,11 @@
 <template>
-  <Project image="csap.png" altText="Center for Science and Policy logo" title="Center for Science and Policy"
-    :skills="['Python', 'SQL', 'NLP']">
+  <Project :image="csap.image.file_name" :altText="csap.image.alt_text" :title="csap.name" :skills="csap.skills">
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia itaque maxime adipisci, ducimus ratione ad laudantium
     accusantium alias, fugit veniam possimus laborum debitis at omnis. Quia nulla eius distinctio accusamus?
   </Project>
-  <img src="~/assets/images/csap.png" alt="Center for Science and Policy" class="rounded-xl shadow-xl" />
 </template>
 
 <script setup>
-
+import projects from '~/data/projects.json'
+const csap = projects.csap
 </script>
