@@ -32,7 +32,7 @@
           bug</a>
       </div>
     </header>
-    <div class="container mx-auto p-4 font-serif">
+    <div class="container mx-auto font-serif max-w-screen-md p-4">
       <slot />
     </div>
   </div>

@@ -2,44 +2,30 @@
   <div class="grid grid-cols-2 p-6">
     <div>
       <h2 class="font-bold block text-xl text-center p-4">Education</h2>
-      <p class="block text-xl p-1"></p>
+      <p class="block text-xl p-1">Some text about how important education is to me. Then link to <NuxtLink
+          to="/education/papers" class="link link-primary">my papers</NuxtLink>.
+      </p>
     </div>
     <img src="~/assets/images/academic.jpg" alt="An extraordinarily intelligent man." class="rounded-xl shadow-xl" />
   </div>
-  <h3 class="font-bold block text-xl text-center p-4">Papers</h3>
-  <ul class="list-disc">
-    <li>
-      <a class="link link-primary" href="https://homepages.warwick.ac.uk/~maslar/">Agelos Georgakopoulos</a>, Alex
-      Wendland. <a class="link link-primary" href="https://arxiv.org/abs/2304.13317">A study of 2-ended
-        graphs via harmonic functions</a>. Pre-print, April 2023.
-    </li>
-    <li>
-      <a class="link link-primary" href="https://warwick.ac.uk/fac/sci/statistics/staff/research_students/morina/">Giulio
-        Morina</a>, <a class="link link-primary"
-        href="https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/latuszynski/">Krzysztof
-        Łatuszyński</a>, <a class="link link-primary" href="https://www.mimuw.edu.pl/~nayar/">Piotr Nayar</a>, Alex
-      Wendland. <a class="link link-primary"
-        href="https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-1/From-the-Bernoulli-factory-to-a-dice-enterprise-via-perfect/10.1214/21-AAP1679.short">From
-        the Bernoulli factory to a dice enterprise via perfect sampling of Markov chains</a>. Annals of Applied
-      Probability, Volume 32, Issue 1, Pages 327-359, February
-      2022.
-    </li>
-    <li>
-      <a class="link link-primary" href="https://homepages.warwick.ac.uk/~maslar/">Agelos Georgakopoulos</a>, Alex
-      Wendland. <a class="link link-primary"
-        href="https://link.springer.com/article/10.1007/s10801-021-01070-6">Presentations for vertex-transitive
-        graphs</a>. Journal of Algebraic Combinatorics, Volume 55, Pages 795-826, 4 October 2021.
-    </li>
-    <li>
-      <a class="link link-primary" href="https://warwick.ac.uk/fac/sci/maths/people/staff/dmitriy_rumynin/">Dmitriy
-        Rumynin</a>, Alex Wendland. <a class="link link-primary"
-        href="https://www.sciencedirect.com/science/article/pii/S0001870818303347">2-Groups, 2-characters, and Burnside
-        rings</a>. Advances in Mathematics, Volume 338, Pages 196-236, 7 November 2018.
-    </li>
-    <li>
-      Alex Wendland. <a class="link link-primary"
-        href="https://onlinelibrary.wiley.com/doi/abs/10.1002/jgt.22002">Coloring of Plane Graphs with
-        Unique Maximal Colors on Faces</a>. Journal of graph theory, Volume 83, Issue 4, Pages 359-371, December 2016.
-    </li>
-  </ul>
+
+  <h3 class="font-bold block text-xl text-center p-4" id="omscs">Masters of Computer Science, Georgia Tech</h3>
+
+  I am enrolled on the online masters of science in computer science (<a href="https://omscs.gatech.edu/home"
+    class="link link-primary">OMSCS</a>) at <a href="https://www.gatech.edu/" class="link link-primary">Georgia Tech</a>.
+  The course will start in August 2023.
+
+  <h3 class="font-bold block text-xl text-center p-4" id="phd">PhD in Mathematics, University of Warwick</h3>
+
+  <ProjectCarousel :projects="phd_projects" />
+
+  <h3 class="font-bold block text-xl text-center p-4" id="mmath">Masters in Mathematics, University of Warwick</h3>
+
+  <ProjectCarousel :projects="phd_projects" />
+
+  <h3 class="font-bold block text-xl text-center p-4" id="youtube">Youtube, My bedroom</h3>
 </template>
+
+<script setup>
+const phd_projects = ["phd_thesis", "csap", "esgi", "sslc"]
+</script>

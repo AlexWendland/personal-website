@@ -49,19 +49,19 @@ const about_cards = [
     points: [
       {
         name: "Masters of Computer Science, Georgia Tech",
-        link: "/education#Masters of Computer Science"
+        link: "/education#omscs"
       },
       {
         name: "PhD in Mathematics, University of Warwick",
-        link: "/education#PhD in Mathematics"
+        link: "/education#phd"
       },
       {
         name: "Masters of Mathematics, University of Warwick",
-        link: "/education#Masters of Mathematics"
+        link: "/education#mmath"
       },
       {
         name: "Youtube, My bedroom",
-        link: "/education#Youtube"
+        link: "/education#youtube"
       }
     ],
   },
