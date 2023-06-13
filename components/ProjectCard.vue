@@ -1,15 +1,18 @@
 <template>
-  <div class="flex flex-col justify-center items-center">
+  <div class="card w-80 bg-base-100 shadow-xl">
     <NuxtLink :to="`/projects/${project.id}`">
-      <img :src="`/_nuxt/assets/images/${project.image.file_name}`" :alt="project.image.alt_text"
-        class="rounded-xl shadow-xl mx-auto resize" />
-      <h3 class="text-2xl font-bold p-4">{{ project.name }}</h3>
+      <figure><img :src="`/_nuxt/assets/images/${project.image.file_name}`" :alt="project.image.alt_text" /></figure>
     </NuxtLink>
-    <ul class="flex flex-wrap gap-4 px-4 pb-4">
-      <li v-for="skill in project.skills" :key="skill">
-        <SkillButton :skill="skill" />
-      </li>
-    </ul>
+    <div class="card-body">
+      <h2 class="card-title">
+        {{ project.name }}
+      </h2>
+      <div class="card-actions justify-start">
+        <div v-for="skill in project.skills" :key="skill">
+          <SkillButton :skill="skill" />
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 

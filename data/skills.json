@@ -1,0 +1,18 @@
+{
+  "python": {
+    "name": "Python",
+    "group": "technical"
+  },
+  "sql": {
+    "name": "SQL",
+    "group": "technical"
+  },
+  "nlp": {
+    "name": "NLP",
+    "group": "technical"
+  },
+  "communication": {
+    "name": "Communication",
+    "group": "soft"
+  }
+}

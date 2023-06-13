@@ -6,9 +6,22 @@
       "alt_text": "Center for Science and Policy logo"
     },
     "skills": [
-      "Python",
-      "SQL",
-      "NLP"
+      "python",
+      "sql",
+      "nlp"
+    ],
+    "id": "csap"
+  },
+  "csap1": {
+    "name": "Center for Science and Policy",
+    "image": {
+      "file_name": "csap.png",
+      "alt_text": "Center for Science and Policy logo"
+    },
+    "skills": [
+      "python",
+      "sql",
+      "nlp"
     ],
     "id": "csap"
   },
@@ -19,9 +32,9 @@
       "alt_text": "Center for Science and Policy logo"
     },
     "skills": [
-      "Python",
-      "SQL",
-      "NLP"
+      "python",
+      "sql",
+      "nlp"
     ],
     "id": "csap"
   },
@@ -32,9 +45,9 @@
       "alt_text": "Center for Science and Policy logo"
     },
     "skills": [
-      "Python",
-      "SQL",
-      "NLP"
+      "python",
+      "sql",
+      "nlp"
     ],
     "id": "csap"
   },
@@ -45,35 +58,9 @@
       "alt_text": "Center for Science and Policy logo"
     },
     "skills": [
-      "Python",
-      "SQL",
-      "NLP"
-    ],
-    "id": "csap"
-  },
-  "csap5": {
-    "name": "Center for Science and Policy",
-    "image": {
-      "file_name": "csap.png",
-      "alt_text": "Center for Science and Policy logo"
-    },
-    "skills": [
-      "Python",
-      "SQL",
-      "NLP"
-    ],
-    "id": "csap"
-  },
-  "csap6": {
-    "name": "Center for Science and Policy",
-    "image": {
-      "file_name": "csap.png",
-      "alt_text": "Center for Science and Policy logo"
-    },
-    "skills": [
-      "Python",
-      "SQL",
-      "NLP"
+      "python",
+      "sql",
+      "nlp"
     ],
     "id": "csap"
   }

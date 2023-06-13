@@ -1,16 +1,28 @@
 <template>
-  <button class="bg-stone-400 hover:bg-stone-500 text-white font-bold py-2 px-4 rounded-full">
-    {{ skill }}
+  <button class="btn btn-active btn-sm" :class="buttonClass">
+    {{ buttonText }}
   </button>
 </template>
 
 <script setup>
+import skills from '~/data/skills.json'
 const { skill } = defineProps({
   skill: {
     type: String,
     required: true
   }
 })
+var buttonText = skill
+var buttonClass = "btn-ghost"
+if (skill in skills) {
+  buttonText = skills[skill].name
+  const group = skills[skill].group
+  buttonClass = {
+    'btn-primary': group === 'technical',
+    'btn-secondary': group === 'soft',
+    'btn-neutral': group !== 'technical' && group !== 'soft'
+  }
+}
 </script>
 
 <style scoped></style>
