@@ -110,7 +110,7 @@ const values = [
     ]
   },
   {
-    name: "Change the system",
+    name: "Change the System",
     explanation: "\
       Whilst living your morals is required, the most effective change comes \
       by writing systems to reflect these values. For me, the most important \
