@@ -34,5 +34,13 @@
   "maths": {
     "name": "Mathematics",
     "group": "technical"
+  },
+  "frontend": {
+    "name": "Frontend development",
+    "group": "technical"
+  },
+  "latex": {
+    "name": "LaTeX",
+    "group": "technical"
   }
 }

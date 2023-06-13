@@ -76,5 +76,69 @@
       "communication"
     ],
     "id": "masters"
+  },
+  "plane_graph_colouring": {
+    "name": "Plane Graph Colouring",
+    "image": {
+      "file_name": "graph.png",
+      "alt_text": "A triange with some annotations"
+    },
+    "skills": [
+      "research",
+      "maths",
+      "latex"
+    ],
+    "id": "plane_graph_colouring"
+  },
+  "bernoulli_factory": {
+    "name": "Bernoulli factory to a dice enterprise",
+    "image": {
+      "file_name": "markov.png",
+      "alt_text": "Some markov chains used in the paper"
+    },
+    "skills": [
+      "research",
+      "maths",
+      "latex"
+    ],
+    "id": "bernoulli_factory"
+  },
+  "academic_support": {
+    "name": "Academic Support (Warwick Maths Society)",
+    "image": {
+      "file_name": "wms.png",
+      "alt_text": "The Warwick Maths Society logo"
+    },
+    "skills": [
+      "organisation",
+      "maths",
+      "communication"
+    ],
+    "id": "academic_support"
+  },
+  "obsidian": {
+    "name": "Obsidian notes",
+    "image": {
+      "file_name": "obsidian.png",
+      "alt_text": "The Obsidian logo"
+    },
+    "skills": [
+      "organisation",
+      "communication"
+    ],
+    "id": "obsidian"
+  },
+  "personal_website": {
+    "name": "Personal Website",
+    "image": {
+      "file_name": "nuxt.png",
+      "alt_text": "The Nuxt 3 logo"
+    },
+    "skills": [
+      "frontend",
+      "javascript",
+      "communication"
+    ],
+    "id": "personal_website"
   }
 }
