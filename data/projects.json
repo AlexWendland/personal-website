@@ -12,56 +12,69 @@
     ],
     "id": "csap"
   },
-  "csap1": {
-    "name": "Center for Science and Policy",
+  "esgi": {
+    "name": "European Study Group with Industry",
     "image": {
-      "file_name": "csap.png",
-      "alt_text": "Center for Science and Policy logo"
+      "file_name": "esgi.png",
+      "alt_text": "The 145th European Study Group with Industries logo"
     },
     "skills": [
       "python",
-      "sql",
-      "nlp"
+      "ml",
+      "communication"
     ],
-    "id": "csap"
+    "id": "esgi"
   },
-  "csap2": {
-    "name": "Center for Science and Policy",
+  "phd_thesis": {
+    "name": "PhD Thesis",
     "image": {
-      "file_name": "csap.png",
-      "alt_text": "Center for Science and Policy logo"
+      "file_name": "thesis.png",
+      "alt_text": "The warwick mathematics department logo"
     },
     "skills": [
-      "python",
-      "sql",
-      "nlp"
+      "research",
+      "maths",
+      "communication"
     ],
-    "id": "csap"
+    "id": "thesis"
   },
-  "csap3": {
-    "name": "Center for Science and Policy",
+  "sslc": {
+    "name": "Student Staff Liaison Committee",
     "image": {
-      "file_name": "csap.png",
-      "alt_text": "Center for Science and Policy logo"
+      "file_name": "sslc.jpg",
+      "alt_text": "The student staff liaison committee logo"
     },
     "skills": [
-      "python",
-      "sql",
-      "nlp"
+      "organisation",
+      "leadership",
+      "communication"
     ],
-    "id": "csap"
+    "id": "sslc"
   },
-  "csap4": {
-    "name": "Center for Science and Policy",
+  "mimir": {
+    "name": "Mimir",
     "image": {
-      "file_name": "csap.png",
-      "alt_text": "Center for Science and Policy logo"
+      "file_name": "jisc.png",
+      "alt_text": "The Joint Information Systems Committee (JISC) logo"
     },
     "skills": [
       "python",
-      "sql",
-      "nlp"
+      "maths",
+      "communication"
     ],
-    "id": "csap"
+    "id": "mimir"
+  },
+  "masters_thesis": {
+    "name": "Master's Thesis",
+    "image": {
+      "file_name": "masters.png",
+      "alt_text": "The front cover of a paper with myself and Dmitriy Rumynin titled '2-Groups, 2-Charracters and the Burnside ring'"
+    },
+    "skills": [
+      "research",
+      "maths",
+      "communication"
+    ],
+    "id": "masters"
   }
 }

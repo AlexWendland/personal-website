@@ -14,5 +14,25 @@
   "communication": {
     "name": "Communication",
     "group": "soft"
+  },
+  "organisation": {
+    "name": "Organisation",
+    "group": "soft"
+  },
+  "leadership": {
+    "name": "Leadership",
+    "group": "soft"
+  },
+  "research": {
+    "name": "Research",
+    "group": "soft"
+  },
+  "ml": {
+    "name": "Machine Learning",
+    "group": "technical"
+  },
+  "maths": {
+    "name": "Mathematics",
+    "group": "technical"
   }
 }
