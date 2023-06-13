@@ -68,15 +68,15 @@ const about_cards = [
   {
     name: "Personal projects",
     question: "Everyone has ideas, its what you make that says who you are. Who are you?",
-    link: "/personal_projects",
+    link: "/projects",
     points: [
       {
         name: "Personal Website",
-        link: "/personal_projects#Personal Website"
+        link: "/projects/personal_website"
       },
       {
         name: "Obsidian",
-        link: "/personal_projects#Obsidian"
+        link: "/projects/obsidian"
       }
     ],
   },
