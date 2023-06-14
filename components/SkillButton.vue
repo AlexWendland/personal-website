@@ -1,6 +1,6 @@
 <template>
   <button class="btn-active btn-sm btn" :class="buttonClass">
-    {{ buttonText }}
+    <NuxtLink :to="`/projects?skill=${skill}`">{{ buttonText }}</NuxtLink>
   </button>
 </template>
 
@@ -24,5 +24,3 @@ if (skill in skills) {
   };
 }
 </script>
-
-<style scoped></style>
