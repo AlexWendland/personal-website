@@ -7,9 +7,7 @@
     <div v-if="quote_data">
       <Quote :author="quote_data.author" :quote="quote_data.quote" />
     </div>
-    <p class="pb-2">
-      I try to promote this by:
-    </p>
+    <p class="pb-2">I try to promote this by:</p>
     <ul class="list-disc pl-4">
       <li v-for="explanation in evidence">
         <p v-html="explanation"></p>
@@ -22,21 +20,21 @@
 const { name, explanation, quote_data, evidence } = defineProps({
   name: {
     type: String,
-    required: true
+    required: true,
   },
   explanation: {
     type: String,
-    required: true
+    required: true,
   },
   quote_data: {
     type: Object,
-    required: false
+    required: false,
   },
   evidence: {
     type: Array,
-    required: true
-  }
-})
+    required: true,
+  },
+});
 </script>
 
 <style scoped></style>

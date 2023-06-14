@@ -1,7 +1,7 @@
 <!-- TODO #1 Fix the error page -->
 
 <template>
-  <div class="mt-7 max-w-sm mx-auto text-center card">
+  <div class="card mx-auto mt-7 max-w-sm text-center">
     <p class="mt-7 text-7xl font-bold">{{ error.statusCode }}</p>
     <p class="mt-7 text-6xl">Oops! Something went wrong.</p>
     <p class="mt-7">{{ error.message }}</p>
@@ -13,12 +13,11 @@
 defineProps({
   error: {
     type: Object,
-    required: true
-  }
-})
+    required: true,
+  },
+});
 
-const handleClearError = () => clearError({ redirect: '/' })
-
+const handleClearError = () => clearError({ redirect: "/" });
 </script>
 
 <style scoped></style>

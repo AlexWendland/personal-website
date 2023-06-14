@@ -17,7 +17,8 @@
 				"PKief.material-icon-theme",
 				"Vue.volar",
 				"pomdtr.excalidraw-editor",
-				"GitHub.copilot-nightly"
+				"GitHub.copilot-nightly",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}

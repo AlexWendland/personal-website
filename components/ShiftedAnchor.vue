@@ -9,9 +9,9 @@
 const { required_id } = defineProps({
   required_id: {
     type: String,
-    required: true
-  }
-})
+    required: true,
+  },
+});
 </script>
 
 <style scoped>

@@ -1,8 +1,12 @@
 <template>
-  <div class="card w-80 bg-base-100 shadow-xl p-0">
+  <div class="card w-80 bg-base-100 p-0 shadow-xl">
     <figure>
-      <NuxtLink :to="`/projects/${project.id}`"><img :src="`/images/${project.image.file_name}`"
-          :alt="project.image.alt_text" class="object-cover w-80 h-36" />
+      <NuxtLink :to="`/projects/${project.id}`"
+        ><img
+          :src="`/images/${project.image.file_name}`"
+          :alt="project.image.alt_text"
+          class="h-36 w-80 object-cover"
+        />
       </NuxtLink>
     </figure>
     <div class="card-body">
@@ -22,9 +26,9 @@
 const { project } = defineProps({
   project: {
     type: Object,
-    required: true
-  }
-})
+    required: true,
+  },
+});
 </script>
 
 <style scoped></style>

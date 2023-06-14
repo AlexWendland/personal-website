@@ -1,5 +1,6 @@
 <template>
-  <figure><img :src="`/images/${image}`" :alt="altText" class="object-cover h-64" />
+  <figure>
+    <img :src="`/images/${image}`" :alt="altText" class="h-64 object-cover" />
   </figure>
   <div class="card-body">
     <NuxtLink :to="`/projects/${id}`">
@@ -12,19 +13,19 @@
 const { image, altText, title, id } = defineProps({
   image: {
     type: String,
-    required: true
+    required: true,
   },
   altText: {
     type: String,
-    required: true
+    required: true,
   },
   title: {
     type: String,
-    required: true
+    required: true,
   },
   id: {
     type: String,
-    required: true
-  }
-})
+    required: true,
+  },
+});
 </script>

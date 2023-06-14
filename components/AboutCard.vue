@@ -24,9 +24,9 @@
 const { about_card } = defineProps({
   about_card: {
     type: Object,
-    required: true
-  }
-})
+    required: true,
+  },
+});
 </script>
 
 <style scoped></style>
