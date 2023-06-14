@@ -1,6 +1,5 @@
 <template>
-  <img :src="`/_nuxt/assets/images/${image}`" :alt="altText"
-    class="rounded-xl shadow-xl mx-auto resize max-h-64 max-w-xs" />
+  <img :src="`/images/${image}`" :alt="altText" class="rounded-xl shadow-xl mx-auto resize max-h-64 max-w-xs" />
   <div class="flex flex-col justify-center items-center">
     <h3 class="text-2xl font-bold p-4">{{ title }}</h3>
     <ul class="flex flex-wrap gap-4 px-4 pb-4">

@@ -1,5 +1,5 @@
 <template>
-  <figure><img :src="`/_nuxt/assets/images/${image}`" :alt="altText" class="object-cover h-64" />
+  <figure><img :src="`/images/${image}`" :alt="altText" class="object-cover h-64" />
   </figure>
   <div class="card-body">
     <NuxtLink :to="`/projects/${id}`">

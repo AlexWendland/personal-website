@@ -1,7 +1,7 @@
 <template>
   <div class="card w-80 bg-base-100 shadow-xl p-0">
     <figure>
-      <NuxtLink :to="`/projects/${project.id}`"><img :src="`/_nuxt/assets/images/${project.image.file_name}`"
+      <NuxtLink :to="`/projects/${project.id}`"><img :src="`/images/${project.image.file_name}`"
           :alt="project.image.alt_text" class="object-cover w-80 h-36" />
       </NuxtLink>
     </figure>

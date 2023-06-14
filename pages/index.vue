@@ -8,7 +8,7 @@
       <p class="block text-xl p-1">Data specialist,</p>
       <p class="block text-xl p-1">Effective Altruist.</p>
     </div>
-    <img src="~/assets/images/me.jpg" alt="An extraordinarily handsome man." class="rounded-xl shadow-xl" />
+    <img src="/images/me.jpg" alt="An extraordinarily handsome man." class="rounded-xl shadow-xl" />
   </div>
 
   <AboutBar />

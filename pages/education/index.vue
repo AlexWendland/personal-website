@@ -6,7 +6,7 @@
           to="/education/papers" class="link link-primary">my papers</NuxtLink>.
       </p>
     </div>
-    <img src="~/assets/images/academic.jpg" alt="An extraordinarily intelligent man." class="rounded-xl shadow-xl" />
+    <img src="/images/academic.jpg" alt="An extraordinarily intelligent man." class="rounded-xl shadow-xl" />
   </div>
 
   <ShiftedAnchor required_id="omscs">
