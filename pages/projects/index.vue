@@ -10,7 +10,8 @@
           'btn-outline': !skillsFilter.includes(skill_key),
           'btn-primary': skill.group === 'technical',
           'btn-secondary': skill.group === 'soft',
-          'btn-neutral': skill.group !== 'technical' && skill.group !== 'soft',
+          'btn-accent': skill.group === 'theory',
+          'btn-neutral': skill.group !== 'technical' && skill.group !== 'soft' && skill.group !== 'theory',
         }"
         @click="toggleSkillFilter(skill_key)"
       >

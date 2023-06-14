@@ -120,19 +120,23 @@ const personal_projects = {
 const work = {
   name: "Work",
   question:
-    "If we are supposed to love life but achieve a work life balance. How do you feel about work?",
+    "If we are supposed to love life and achieve a work life balance. How do you feel about work?",
   link: "/work",
   points: [
     {
-      name: "CryptoCompare",
-      link: "/work#CryptoCompare",
+      name: "Engineer, Man Group",
+      link: "/work#Man",
     },
     {
-      name: "Faststream",
+      name: "Head of Data, CC-Data",
+      link: "/work#CCData",
+    },
+    {
+      name: "Science and Engineering Fast stream, Cabinet Office",
       link: "/work#Faststream",
     },
     {
-      name: "Teaching",
+      name: "University Teaching, University of Warwick",
       link: "/work#Teaching",
     },
   ],

@@ -3,6 +3,10 @@
     "name": "Python",
     "group": "technical"
   },
+  "javascipt": {
+    "name": "Javascipt",
+    "group": "technical"
+  },
   "sql": {
     "name": "SQL",
     "group": "technical"
@@ -33,7 +37,7 @@
   },
   "maths": {
     "name": "Mathematics",
-    "group": "technical"
+    "group": "theory"
   },
   "frontend": {
     "name": "Frontend development",
@@ -41,6 +45,22 @@
   },
   "latex": {
     "name": "LaTeX",
+    "group": "technical"
+  },
+  "cloud": {
+    "name": "Cloud Computing",
+    "group": "technical"
+  },
+  "data": {
+    "name": "Data",
+    "group": "theory"
+  },
+  "blockchain": {
+    "name": "Blockchain",
+    "group": "theory"
+  },
+  "devops": {
+    "name": "Development Operations",
     "group": "technical"
   }
 }

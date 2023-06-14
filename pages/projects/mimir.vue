@@ -1,10 +1,5 @@
 <template>
-  <Project
-    :image="mimir.image.file_name"
-    :altText="mimir.image.alt_text"
-    :title="mimir.name"
-    :skills="mimir.skills"
-  >
+  <Project project_name="mimir">
     Not fully written yet but here are some links from the project:
     <a
       href="https://www.youtube.com/watch?v=5J-rCk48gdI&ab_channel=SigmaWarwick"
@@ -15,7 +10,4 @@
   </Project>
 </template>
 
-<script setup>
-import projects from "~/data/projects.json";
-const mimir = projects.mimir;
-</script>
+<script setup></script>

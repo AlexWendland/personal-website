@@ -6,7 +6,11 @@
       "alt_text": "Center for Science and Policy logo"
     },
     "skills": ["python", "sql", "nlp"],
-    "id": "csap"
+    "id": "csap",
+    "date": {
+      "start": "2019-01",
+      "end": "2019-04"
+    }
   },
   "esgi": {
     "name": "European Study Group with Industry",
@@ -15,7 +19,11 @@
       "alt_text": "The 145th European Study Group with Industries logo"
     },
     "skills": ["python", "ml", "communication"],
-    "id": "esgi"
+    "id": "esgi",
+    "date": {
+      "start": "2018-07",
+      "end": "2019-04"
+    }
   },
   "phd_thesis": {
     "name": "PhD Thesis",
@@ -24,7 +32,11 @@
       "alt_text": "The warwick mathematics department logo"
     },
     "skills": ["research", "maths", "communication"],
-    "id": "thesis"
+    "id": "thesis",
+    "date": {
+      "start": "2015-09",
+      "end": "2020-04"
+    }
   },
   "sslc": {
     "name": "Student Staff Liaison Committee",
@@ -33,7 +45,11 @@
       "alt_text": "The student staff liaison committee logo"
     },
     "skills": ["organisation", "leadership", "communication"],
-    "id": "sslc"
+    "id": "sslc",
+    "date": {
+      "start": "2011-09",
+      "end": "2019-06"
+    }
   },
   "mimir": {
     "name": "Mimir",
@@ -42,7 +58,11 @@
       "alt_text": "The Joint Information Systems Committee (JISC) logo"
     },
     "skills": ["python", "maths", "communication"],
-    "id": "mimir"
+    "id": "mimir",
+    "date": {
+      "start": "2013-06",
+      "end": "2014-01"
+    }
   },
   "masters_thesis": {
     "name": "Master's Thesis",
@@ -51,7 +71,11 @@
       "alt_text": "The front cover of a paper with myself and Dmitriy Rumynin titled '2-Groups, 2-Charracters and the Burnside ring'"
     },
     "skills": ["research", "maths", "communication"],
-    "id": "masters"
+    "id": "masters",
+    "date": {
+      "start": "2014-09",
+      "end": "2015-06"
+    }
   },
   "plane_graph_colouring": {
     "name": "Plane Graph Colouring",
@@ -60,7 +84,11 @@
       "alt_text": "A triange with some annotations"
     },
     "skills": ["research", "maths", "latex"],
-    "id": "plane_graph_colouring"
+    "id": "plane_graph_colouring",
+    "date": {
+      "start": "2014-06",
+      "end": "2014-09"
+    }
   },
   "bernoulli_factory": {
     "name": "Bernoulli factory to a dice enterprise",
@@ -69,7 +97,11 @@
       "alt_text": "Some markov chains used in the paper"
     },
     "skills": ["research", "maths", "latex"],
-    "id": "bernoulli_factory"
+    "id": "bernoulli_factory",
+    "date": {
+      "start": "2013-06",
+      "end": "2014-06"
+    }
   },
   "academic_support": {
     "name": "Academic Support (Warwick Maths Society)",
@@ -78,7 +110,11 @@
       "alt_text": "The Warwick Maths Society logo"
     },
     "skills": ["organisation", "maths", "communication"],
-    "id": "academic_support"
+    "id": "academic_support",
+    "date": {
+      "start": "2013-06",
+      "end": "2014-06"
+    }
   },
   "obsidian": {
     "name": "Obsidian notes",
@@ -87,7 +123,11 @@
       "alt_text": "The Obsidian logo"
     },
     "skills": ["organisation", "communication"],
-    "id": "obsidian"
+    "id": "obsidian",
+    "date": {
+      "start": "2023-01",
+      "end": "current"
+    }
   },
   "personal_website": {
     "name": "Personal Website",
@@ -96,6 +136,114 @@
       "alt_text": "The Nuxt 3 logo"
     },
     "skills": ["frontend", "javascript", "communication"],
-    "id": "personal_website"
+    "id": "personal_website",
+    "date": {
+      "start": "2023-05",
+      "end": "current"
+    }
+  },
+  "cost_optimisation": {
+    "name": "Cost Optimisation",
+    "image": {
+      "file_name": "azure.png",
+      "alt_text": "The azure cloud computing logo"
+    },
+    "skills": ["cloud", "data", "communication"],
+    "id": "cost_optimisation",
+    "date": {
+      "start": "2023-01",
+      "end": "2023-06"
+    }
+  },
+  "dex_integration": {
+    "name": "Dex Integration Prototype",
+    "image": {
+      "file_name": "uniswap.jpg",
+      "alt_text": "The uniswap (a decentralised exchange) logo"
+    },
+    "skills": ["research", "python", "blockchain"],
+    "id": "dex_integration",
+    "date": {
+      "start": "2022-03",
+      "end": "2022-09"
+    }
+  },
+  "data_infrastructure": {
+    "name": "Data Infrastructure",
+    "image": {
+      "file_name": "kubernetes.png",
+      "alt_text": "The Kubernetes (a contain orchestrator) logo"
+    },
+    "skills": ["cloud", "python", "devops"],
+    "id": "data_infrastructure",
+    "date": {
+      "start": "2022-01",
+      "end": "2023-06"
+    }
+  },
+  "orderbook": {
+    "name": "Orderbook Data",
+    "image": {
+      "file_name": "orderbook.png",
+      "alt_text": "A visualisation of a limit orderbook, this was taken from https://www.investopedia.com/terms/o/order-book.asp"
+    },
+    "skills": ["data", "python", "cloud"],
+    "id": "orderbook",
+    "date": {
+      "start": "2021-09",
+      "end": "2022-09"
+    }
+  },
+  "data_organisation": {
+    "name": "Data Organisation",
+    "image": {
+      "file_name": "organisation.png",
+      "alt_text": "A circular diagram of the data life cycle, this was taken from https://nbisweden.github.io/module-organising-data-dm-practices/101-introduction-to-data-organization/index.html"
+    },
+    "skills": ["organisation", "leadership", "communication"],
+    "id": "data_organisation",
+    "date": {
+      "start": "2022-06",
+      "end": "2023-06"
+    }
+  },
+  "coffee_roulette": {
+    "name": "Coffee Roulette",
+    "image": {
+      "file_name": "coffee.png",
+      "alt_text": "An icon of a coffee take away mug"
+    },
+    "skills": ["organisation", "javascript", "communication"],
+    "id": "coffee_roulette",
+    "date": {
+      "start": "2020-10",
+      "end": "2021-09"
+    }
+  },
+  "reports": {
+    "name": "ACMD reports",
+    "image": {
+      "file_name": "acmd.png",
+      "alt_text": "The front page of the Advisory Council on the Misuse of Drugs report on consumer Cannabidiol (CBD) products"
+    },
+    "skills": ["organisation", "communication"],
+    "id": "reports",
+    "date": {
+      "start": "2020-10",
+      "end": "2021-09"
+    }
+  },
+  "pulse_survey": {
+    "name": "Pulse survey",
+    "image": {
+      "file_name": "pulse.png",
+      "alt_text": "The NICE pulse survey icon reading 'Employee Pulse Survey'"
+    },
+    "skills": ["data", "organisation", "communication"],
+    "id": "pulse_survey",
+    "date": {
+      "start": "2021-04",
+      "end": "2021-09"
+    }
   }
 }

@@ -20,7 +20,9 @@ if (skill in skills) {
   buttonClass = {
     "btn-primary": group === "technical",
     "btn-secondary": group === "soft",
-    "btn-neutral": group !== "technical" && group !== "soft",
+    "btn-accent": group === "theory",
+    "btn-neutral":
+      group !== "technical" && group !== "soft" && group !== "theory",
   };
 }
 </script>
