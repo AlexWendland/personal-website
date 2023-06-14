@@ -84,6 +84,10 @@ const education = {
   link: "/education",
   points: [
     {
+      name: "Academic papers",
+      link: "/papers",
+    },
+    {
       name: "Masters of Computer Science, Georgia Tech",
       link: "/education#omscs",
     },
@@ -125,11 +129,11 @@ const work = {
   points: [
     {
       name: "Engineer, Man Group",
-      link: "/work#Man",
+      link: "/work#man",
     },
     {
       name: "Head of Data, CC-Data",
-      link: "/work#CCData",
+      link: "/work#ccdata",
     },
     {
       name: "Science and Engineering Fast stream, Cabinet Office",

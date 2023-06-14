@@ -11,7 +11,10 @@
           'btn-primary': skill.group === 'technical',
           'btn-secondary': skill.group === 'soft',
           'btn-accent': skill.group === 'theory',
-          'btn-neutral': skill.group !== 'technical' && skill.group !== 'soft' && skill.group !== 'theory',
+          'btn-neutral':
+            skill.group !== 'technical' &&
+            skill.group !== 'soft' &&
+            skill.group !== 'theory',
         }"
         @click="toggleSkillFilter(skill_key)"
       >
@@ -51,7 +54,6 @@ watch(
     } else {
       skillsFilter.value = [];
     }
-    console.log(newQuery);
     filterProjects();
   },
   { immediate: true }
