@@ -137,11 +137,11 @@ const work = {
     },
     {
       name: "Science and Engineering Fast stream, Cabinet Office",
-      link: "/work#Faststream",
+      link: "/work#faststream",
     },
     {
       name: "University Teaching, University of Warwick",
-      link: "/work#Teaching",
+      link: "/work#teaching",
     },
   ],
 };
