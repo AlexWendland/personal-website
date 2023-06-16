@@ -1,11 +1,11 @@
 <template>
   <div class="card h-96 bg-inherit shadow-none">
-    <div class="card-title">
+    <div class="card-title p-1">
       <NuxtLink :to="`${about_card.link}`">
         {{ about_card.name }}
       </NuxtLink>
     </div>
-    <div class="subtitle">
+    <div class="subtitle p-1">
       {{ about_card.question }}
     </div>
     <div class="card-body">

@@ -140,7 +140,7 @@ const work = {
       link: "/work#faststream",
     },
     {
-      name: "University Teaching, University of Warwick",
+      name: "Teacher and Lecturer, University of Warwick",
       link: "/work#teaching",
     },
   ],
