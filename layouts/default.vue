@@ -1,5 +1,5 @@
 <template>
-  <div data-theme="retro">
+  <div data-theme="autumn">
     <header
       class="navbar sticky top-0 z-50 rounded-b-lg bg-base-100 font-serif"
     >
