@@ -1,7 +1,7 @@
 <template>
-  <div>
+  <div data-theme="retro">
     <header
-      class="navbar sticky top-0 z-50 rounded-b-lg bg-stone-400 font-serif"
+      class="navbar sticky top-0 z-50 rounded-b-lg bg-base-100 font-serif"
     >
       <div class="navbar-start">
         <div class="dropdown">
@@ -49,7 +49,7 @@
       <div class="navbar-end">
         <a
           href="https://github.com/AlexWendland/personal-website/issues/new"
-          class="btn-error btn-md btn invisible normal-case sm:visible"
+          class="btn-error btn-outline btn-md btn invisible normal-case sm:visible"
           >Report a bug</a
         >
       </div>

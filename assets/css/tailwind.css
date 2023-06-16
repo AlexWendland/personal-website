@@ -2,24 +2,4 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  @apply bg-gray-100;
-}
 
-@layer components {
-  .green-button {
-    @apply space-y-2 rounded-md bg-emerald-200 px-3 py-2 text-sm text-white;
-  }
-
-  .gray-button {
-    @apply space-y-2 rounded-md bg-slate-300 px-3 py-2 text-sm text-white;
-  }
-
-  .red-button {
-    @apply container space-y-2 rounded-md bg-rose-300 px-3 py-2 text-sm text-white;
-  }
-
-  .card {
-    @apply h-full rounded-md bg-white p-3 shadow-md;
-  }
-}

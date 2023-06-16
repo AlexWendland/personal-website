@@ -1,12 +1,14 @@
 <template>
   <div class="grid grid-cols-2 p-6">
-    <div>
+    <div class="sm:text-xl">
       <!-- TODO #4 Make the font sizes change with screen size -->
-      <h2 class="block p-4 text-center text-xl font-bold">Alex Wendland</h2>
-      <p class="block p-1 text-xl">Mathematician,</p>
-      <p class="block p-1 text-xl">Developer,</p>
-      <p class="block p-1 text-xl">Data specialist,</p>
-      <p class="block p-1 text-xl">Effective Altruist.</p>
+      <h2 class="block p-4 text-center font-bold">Alex Wendland</h2>
+      <div class="sm:content-central block p-1 sm:p-4">
+        <p class="block p-1">Mathematician,</p>
+        <p class="block p-1">Developer,</p>
+        <p class="block p-1">Data specialist,</p>
+        <p class="block p-1">Effective Altruist.</p>
+      </div>
     </div>
     <img
       src="/images/me.jpg"

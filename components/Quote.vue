@@ -12,7 +12,7 @@
         fill="currentColor"
       />
     </svg>
-    <p class="text-xl font-semibold italic text-gray-900 dark:text-white">
+    <p class="text-xl font-semibold italic">
       {{ quote }}
     </p>
     <p class="pl-4 pt-4">- {{ author }}</p>

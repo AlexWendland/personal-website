@@ -3,7 +3,14 @@ module.exports = {
   plugins: [require("daisyui")],
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      spacing: {
+        '104' : '26rem',
+      }
+    },
     plugins: [],
+  },
+  daisyui: {
+    themes: ["retro"],
   },
 };

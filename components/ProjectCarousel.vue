@@ -1,10 +1,10 @@
 <template>
   <div
-    class="container carousel-center carousel rounded-box space-x-4 bg-neutral p-4"
+    class="container carousel-center carousel rounded-box space-x-4 bg-base-100 p-4"
   >
     <div
       v-for="project in projects"
-      class="carousel-item card h-96 w-64 bg-gray-400 p-0"
+      class="carousel-item card h-96 w-64 bg-base-200 p-0"
     >
       <ProjectCarouselItem
         :image="project_metadata[project].image.file_name"

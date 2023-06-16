@@ -1,5 +1,5 @@
 <template>
-  <div class="card w-80 bg-base-100 p-0 shadow-xl">
+  <div class="card h-104 w-80 bg-base-200 p-0 shadow-xl">
     <figure>
       <NuxtLink :to="`/projects/${project.id}`"
         ><img
