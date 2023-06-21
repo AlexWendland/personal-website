@@ -4,7 +4,8 @@
       <h2 class="block p-4 text-center font-bold sm:text-xl">Work</h2>
       <p class="block p-1 sm:text-xl">
         "Activity involving mental or physical effort done in order to achieve a
-        purpose or result." <br><br> So, getting out of bed counts.
+        purpose or result." <br /><br />
+        So, getting out of bed counts.
       </p>
     </div>
     <img
@@ -33,8 +34,80 @@
   <h4 class="block p-2 text-xl">Head of Data: 2023-02 - 2023-06</h4>
   <h4 class="block p-2 text-xl">Data Scientist: 2021-09 - 2023-02</h4>
   <div class="p-2">
-    Write a summary of my time at
-    <a href="https://ccdata.io/" class="link-primary link">CC Data</a>.
+    <p class="pb-2">
+      <a href="https://ccdata.io/" class="link-primary link">CC Data</a>,
+      formerly known as
+      <a href="https://www.cryptocompare.com/" class="link-primary link"
+        >CryptoCompare</a
+      >, a cryptocurrency data provider, was in the process of scaling up staff
+      and transitioning from a retail focus to the institutional market.
+    </p>
+
+    <p class="pb-2">
+      In my roles as a Data Scientist and later as Head of Data, my
+      responsibilities included product development, maintaining data quality,
+      collaborating with clients on tailored data sets, and managing the broader
+      data team to build tools and establish supporting structures.
+    </p>
+
+    <p class="pb-2">
+      I initially collaborated with the
+      <NuxtLink to="/projects/orderbook" class="link-primary link"
+        >Orderbook</NuxtLink
+      >
+      team to create data quality metrics and enhance data surveillance. This
+      groundwork allowed me to work closely with multiple clients, calculating
+      derived metrics, refining orderbook data sets, and guaranteeing the
+      superior quality of the products delivered. I innovated by researching how
+      to integrate
+      <NuxtLink to="/projects/dex_integration" class="link-primary link"
+        >Decentralized Exchanges (DEXs)</NuxtLink
+      >
+      from on-chain data, ultimately handing off this product to our engineering
+      team.
+    </p>
+
+    <p class="pb-2">
+      To enhance our
+      <NuxtLink to="/projects/data_infrastructure" class="link-primary link"
+        >technical infrastructure</NuxtLink
+      >, I transitioned the data team onto a Kubernetes tech stack, establishing
+      a CI/CD pipeline using GitHub Actions. I also
+      <NuxtLink to="/projects/data_organisation" class="link-primary link"
+        >reorganised</NuxtLink
+      >
+      the larger data team to address shared issues in a problem-centric way and
+      to optimize resource management. This necessitated the implementation of
+      new organizational processes, frequent communication across teams, and
+      conducting quarterly retrospectives.
+    </p>
+
+    <p class="pb-2">
+      Additionally, I undertook a
+      <NuxtLink to="/projects/cost_optimisation" class="link-primary link"
+        >detailed study</NuxtLink
+      >
+      of our Azure service usage and costs, leading to the creation of a
+      comprehensive monthly report.
+    </p>
+
+    <p>
+      The products developed under my guidance contributed to the onboarding of
+      new clients, accounting for 4% of the company's annual revenue. My
+      research and subsequent restructuring of Azure Infrastructure usage led to
+      a 15% reduction in related costs, effectively cutting the company's
+      overall cost by 2%. Moreover, I drove the research and development of
+      multiple new products, including
+      <a href="https://ccdata.io/data/on-chain-data" class="link-primary link"
+        >DEX integrations</a
+      >,
+      <a href="https://ccdata.io/data/order-book" class="link-primary link"
+        >orderbook metrics</a
+      >, and a
+      <a href="https://ccdata.io/data/data-catalogue" class="link-primary link"
+        >data catalog</a
+      >.
+    </p>
   </div>
 
   <ProjectCarousel :projects="ccdata_projects" />
