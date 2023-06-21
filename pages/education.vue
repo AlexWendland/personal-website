@@ -150,12 +150,11 @@
       >
       : This channel taught me how to use
       <NuxtLink to="/projects/obsidian" class="link">Obsidian</NuxtLink> and its
-      community packages. She introduced me to the concept of learning in public.
+      community packages. She introduced me to the concept of learning in
+      public.
     </li>
     <li class="pb-2">
-      <a href="https://www.youtube.com/@kurzgesagt" class="link"
-        >Kurzgesagt</a
-      >
+      <a href="https://www.youtube.com/@kurzgesagt" class="link">Kurzgesagt</a>
       : A great channel that produces really good quality videos about well
       researched topics. I really admire their adherence to
       <NuxtLink to="/values#truth" class="link">Truth</NuxtLink> as a value.
@@ -168,9 +167,7 @@
       you should code.
     </li>
     <li class="pb-2">
-      <a href="https://www.youtube.com/@CGPGrey" class="link"
-        >CGPGray</a
-      >
+      <a href="https://www.youtube.com/@CGPGrey" class="link">CGPGray</a>
       : Most probably the original youtube channel that got me hooked. They are
       funny videos on fairly random topics.
     </li>
