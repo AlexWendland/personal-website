@@ -1,8 +1,11 @@
 <template>
   <div class="grid grid-cols-2 p-6">
     <div>
-      <h2 class="block p-4 text-center text-xl font-bold">Work</h2>
-      <p class="block p-1 text-xl">Some text about working.</p>
+      <h2 class="block p-4 text-center font-bold sm:text-xl">Work</h2>
+      <p class="block p-1 sm:text-xl">
+        "Activity involving mental or physical effort done in order to achieve a
+        purpose or result." <br><br> So, getting out of bed counts.
+      </p>
     </div>
     <img
       src="/images/work.jpg"

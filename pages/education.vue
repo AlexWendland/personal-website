@@ -3,7 +3,7 @@
     <div>
       <h2 class="block p-4 text-center font-bold sm:text-xl">Education</h2>
       <p class="block p-1 sm:text-xl">
-        Everything in life is eduction.<br /><br />Some you get
+        Everything in life is eduction.<br /><br />Somethings you get
         <a href="mailto:"></a> certificate for completing.
       </p>
     </div>
