@@ -8,8 +8,8 @@
     "skills": ["python", "sql", "nlp"],
     "id": "csap",
     "date": {
-      "start": "2019-01",
-      "end": "2019-04"
+      "start": "January 2019",
+      "end": "April 2019"
     }
   },
   "esgi": {
@@ -21,8 +21,8 @@
     "skills": ["python", "ml", "communication"],
     "id": "esgi",
     "date": {
-      "start": "2018-07",
-      "end": "2019-04"
+      "start": "July 2018",
+      "end": "April 2019"
     }
   },
   "phd_thesis": {
@@ -34,8 +34,8 @@
     "skills": ["research", "maths", "communication"],
     "id": "thesis",
     "date": {
-      "start": "2015-09",
-      "end": "2020-04"
+      "start": "September 2015",
+      "end": "April 2020"
     }
   },
   "sslc": {
@@ -47,8 +47,8 @@
     "skills": ["organisation", "leadership", "communication"],
     "id": "sslc",
     "date": {
-      "start": "2011-09",
-      "end": "2019-06"
+      "start": "September 2011",
+      "end": "June 2019"
     }
   },
   "mimir": {
@@ -60,8 +60,8 @@
     "skills": ["python", "maths", "communication"],
     "id": "mimir",
     "date": {
-      "start": "2013-06",
-      "end": "2014-01"
+      "start": "June 2013",
+      "end": "January 2014"
     }
   },
   "masters_thesis": {
@@ -73,8 +73,8 @@
     "skills": ["research", "maths", "communication"],
     "id": "masters",
     "date": {
-      "start": "2014-09",
-      "end": "2015-06"
+      "start": "September 2014",
+      "end": "June 2015"
     }
   },
   "plane_graph_colouring": {
@@ -86,8 +86,8 @@
     "skills": ["research", "maths", "latex"],
     "id": "plane_graph_colouring",
     "date": {
-      "start": "2014-06",
-      "end": "2014-09"
+      "start": "June 2014",
+      "end": "September 2014"
     }
   },
   "bernoulli_factory": {
@@ -99,8 +99,8 @@
     "skills": ["research", "maths", "latex"],
     "id": "bernoulli_factory",
     "date": {
-      "start": "2013-06",
-      "end": "2014-06"
+      "start": "June 2013",
+      "end": "June 2014"
     }
   },
   "academic_support": {
@@ -112,8 +112,8 @@
     "skills": ["organisation", "maths", "communication"],
     "id": "academic_support",
     "date": {
-      "start": "2013-06",
-      "end": "2014-06"
+      "start": "June 2013",
+      "end": "June 2014"
     }
   },
   "obsidian": {
@@ -125,7 +125,7 @@
     "skills": ["organisation", "communication"],
     "id": "obsidian",
     "date": {
-      "start": "2023-01",
+      "start": "January 2023",
       "end": "current"
     }
   },
@@ -138,7 +138,7 @@
     "skills": ["frontend", "javascript", "communication"],
     "id": "personal_website",
     "date": {
-      "start": "2023-05",
+      "start": "May 2023",
       "end": "current"
     }
   },
@@ -151,8 +151,8 @@
     "skills": ["cloud", "data", "communication"],
     "id": "cost_optimisation",
     "date": {
-      "start": "2023-01",
-      "end": "2023-06"
+      "start": "January 2023",
+      "end": "June 2023"
     }
   },
   "dex_integration": {
@@ -164,8 +164,8 @@
     "skills": ["research", "python", "blockchain"],
     "id": "dex_integration",
     "date": {
-      "start": "2022-03",
-      "end": "2022-09"
+      "start": "March 2022",
+      "end": "September 2022"
     }
   },
   "data_infrastructure": {
@@ -177,8 +177,8 @@
     "skills": ["cloud", "python", "devops"],
     "id": "data_infrastructure",
     "date": {
-      "start": "2022-01",
-      "end": "2023-06"
+      "start": "January 2022",
+      "end": "June 2023"
     }
   },
   "orderbook": {
@@ -190,8 +190,8 @@
     "skills": ["data", "python", "cloud"],
     "id": "orderbook",
     "date": {
-      "start": "2021-09",
-      "end": "2022-09"
+      "start": "September 2021",
+      "end": "September 2022"
     }
   },
   "data_organisation": {
@@ -203,8 +203,8 @@
     "skills": ["organisation", "leadership", "communication"],
     "id": "data_organisation",
     "date": {
-      "start": "2022-06",
-      "end": "2023-06"
+      "start": "June 2022",
+      "end": "June 2023"
     }
   },
   "coffee_roulette": {
@@ -216,8 +216,8 @@
     "skills": ["organisation", "javascript", "communication"],
     "id": "coffee_roulette",
     "date": {
-      "start": "2020-10",
-      "end": "2021-09"
+      "start": "October 2020",
+      "end": "August 2021"
     }
   },
   "reports": {
@@ -229,8 +229,8 @@
     "skills": ["organisation", "communication"],
     "id": "reports",
     "date": {
-      "start": "2020-10",
-      "end": "2021-09"
+      "start": "October 2020",
+      "end": "August 2021"
     }
   },
   "pulse_survey": {
@@ -242,8 +242,8 @@
     "skills": ["data", "organisation", "communication"],
     "id": "pulse_survey",
     "date": {
-      "start": "2021-04",
-      "end": "2021-09"
+      "start": "April 2021",
+      "end": "August 2021"
     }
   }
 }

@@ -20,7 +20,7 @@
       <a href="https://www.man.com/">Man Group</a>
     </h3>
   </ShiftedAnchor>
-  <h4 class="block p-2 text-xl">Engineer: 2023-07 - Current</h4>
+  <h4 class="block p-2 text-xl">Engineer: July 2023 - Current</h4>
   <div class="p-2">
     I am starting as a Software Engineer at
     <a href="https://www.man.com/" class="link-primary link">Man Group</a>.
@@ -31,8 +31,10 @@
       <a href="https://ccdata.io/">CC Data</a>
     </h3>
   </ShiftedAnchor>
-  <h4 class="block p-2 text-xl">Head of Data: 2023-02 - 2023-06</h4>
-  <h4 class="block p-2 text-xl">Data Scientist: 2021-09 - 2023-02</h4>
+  <h4 class="block p-2 text-xl">Head of Data: February 2023 - June 2023</h4>
+  <h4 class="block p-2 text-xl">
+    Data Scientist: September 2021 - January 2023
+  </h4>
   <div class="p-2">
     <p class="pb-2">
       <a href="https://ccdata.io/" class="link-primary link">CC Data</a>,
@@ -117,7 +119,7 @@
       <a href="https://www.faststream.gov.uk/">UK Government</a>
     </h3>
   </ShiftedAnchor>
-  <h4 class="block p-2 text-xl">Faststreamer: 2023-02 - 2023-06</h4>
+  <h4 class="block p-2 text-xl">Faststreamer: October 2020 - August 2021</h4>
   Write a summary of my time on the
   <a
     href="https://www.faststream.gov.uk/science-engineering/index.html"
@@ -132,6 +134,10 @@
       <a href="https://warwick.ac.uk/fac/sci/maths/">University of Warwick</a>
     </h3>
   </ShiftedAnchor>
+  <h4 class="block p-2 text-xl">
+    Teacher and Lecturer: September 2014 - April 2020
+  </h4>
+
   List my activities teaching here.
 </template>
 
