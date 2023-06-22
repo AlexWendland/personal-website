@@ -1,4 +1,4 @@
 {
   "editor.tabSize": 2,
-  "prettier.prettierPath": "./node_modules/prettier"
+  "prettier.prettierPath": "/workspaces/personal-website/node_modules/prettier"
 }
