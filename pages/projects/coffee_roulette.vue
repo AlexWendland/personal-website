@@ -1,9 +1,10 @@
 <template>
   <Project project_name="coffee_roulette">
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia itaque
-    maxime adipisci, ducimus ratione ad laudantium accusantium alias, fugit
-    veniam possimus laborum debitis at omnis. Quia nulla eius distinctio
-    accusamus?
+    <p class="pb-2">During my time in the Science and Engineering Faststream, a competitive leadership program in the civil service, I recognized the impact the COVID-19 crisis was having on the cohesion within our cohort. I identified a need for a tool that would facilitate connection and engagement between members to counter the isolation experienced during the pandemic. The task at hand was to develop a simple, engaging solution that would strengthen our network despite the challenging circumstances.</p>
+
+    <p class="pb-2">Using my technical skills and understanding of my cohort's needs, I developed a "Coffee Roulette" application. This innovative tool randomly paired members for weekly meetings, fostering connections and encouraging regular communication among our group. This required not only coding and design skills but also an understanding of the social dynamics within our cohort and how to foster positive interactions.</p>
+
+    <p>The Coffee Roulette application was highly successful, significantly enhancing social connections within our group during a difficult period. Its success was such that I set up several similar networking initiatives within the broader Faststream community. One of these initiatives currently engages over 500 participants as of 2023, reflecting the effectiveness of this simple yet impactful solution in fostering engagement and collaboration among team members.</p>
   </Project>
 </template>
 
