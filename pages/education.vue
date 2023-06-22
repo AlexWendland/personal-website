@@ -3,8 +3,8 @@
     <div>
       <h2 class="block p-4 text-center font-bold sm:text-xl">Education</h2>
       <p class="block p-1 sm:text-xl">
-        Everything in life is eduction.<br /><br />Somethings you get
-        <a href="mailto:"></a> certificate for completing.
+        Everything in life is eduction.<br /><br />Somethings you get a
+        certificate for.
       </p>
     </div>
     <img
@@ -19,7 +19,7 @@
       Masters of Computer Science, Georgia Tech
     </h3>
   </ShiftedAnchor>
-  <div class="pb-4 text-center text-lg">2023-08 - Current</div>
+  <div class="pb-4 text-center text-lg">August 2023 - Current</div>
   <p>
     I am enrolled on the online masters of science in computer science (<a
       href="https://omscs.gatech.edu/home"
@@ -36,7 +36,7 @@
       PhD in Mathematics, University of Warwick
     </h3>
   </ShiftedAnchor>
-  <div class="pb-4 text-center text-lg">2015-09 - 2020-04</div>
+  <div class="pb-4 text-center text-lg">September 2015 - April 2020</div>
 
   <p class="pb-2">
     During my PhD at the University of Warwick, I delved into the realms of
@@ -71,7 +71,7 @@
     </h3>
   </ShiftedAnchor>
 
-  <div class="pb-4 text-center text-lg">2011-09 - 2015-07</div>
+  <div class="pb-4 text-center text-lg">September 2011 - July 2015</div>
 
   <p class="pb-2">
     I pursued an integrated Master's in Mathematics at the University of

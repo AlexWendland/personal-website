@@ -5,7 +5,7 @@
       <p class="block p-1 sm:text-xl">
         "Activity involving mental or physical effort done in order to achieve a
         purpose or result." <br /><br />
-        So, getting out of bed counts.
+        Getting out of bed counts.
       </p>
     </div>
     <img
@@ -122,98 +122,46 @@
   </ShiftedAnchor>
   <h4 class="block p-2 text-xl">Faststreamer: October 2020 - August 2021</h4>
 
-  <p class="pb-2">
-    During my tenure on the
-    <a href="https://www.faststream.gov.uk/" class="link-primary link"
-      >Faststream</a
-    >, a competitive three-year leadership program for placements across the
-    civil service, I was part of the
+  <p>
+    During my time on the
     <a
       href="https://www.faststream.gov.uk/science-engineering/index.html"
       class="link-primary link"
       >Science and Engineering Faststream</a
-    >. This role emphasized bringing STEM knowledge into the civil service
-    during the crucial period of the COVID-19 crisis. I found myself assigned to
-    the Home Office on the
+    >, a three-year leadership program, I was assigned to the Home Office on the
     <a
       href="https://www.gov.uk/government/organisations/advisory-council-on-the-misuse-of-drugs"
       class="link-primary link"
       >Advisory Council on the Misuse of Drugs (ACMD)</a
-    >, where I assisted
-    <a
-      href="https://www.nottingham.ac.uk/pharmacy/people/roger.knaggs"
-      class="link-primary link"
-      >Professor Roger Knaggs</a
-    >
-    in providing two key pieces of
+    >. I worked closely with the council to
     <NuxtLink to="/projects/reports" class="link-primary link"
-      >advice to the government</NuxtLink
-    >. The first was about regulations concerning
+      >deliver key advice</NuxtLink
+    >
+    to the government on regulations concerning
     <a
       href="https://www.gov.uk/government/publications/acmd-advice-on-consumer-cannabidiol-cbd-products"
       class="link-primary link"
       >commercial CBD products</a
-    >, and the second involved
+    >
+    and
     <a
       href="https://www.gov.uk/government/publications/consideration-of-barriers-to-research-part-1"
       class="link-primary link"
-      >a review of research barriers caused by regulations on Synthetic
-      cannabinoid receptor agonists (SCRA)</a
-    >.
-  </p>
-
-  <p class="pb-2">
-    Simultaneously, during the pandemic, I focused on fostering a closer
-    connection within my cohort of Faststreamers and assessing the overall
-    impact of the crisis on our department.
-  </p>
-
-  <p class="pb-2">
-    One significant challenge we encountered at the ACMD was a constitutional
-    crisis related to maintaining enough members to remain quorate, crucial for
-    any potential amendments to the
-    <a
-      href="https://www.legislation.gov.uk/ukpga/1971/38/contents"
-      class="link-primary link"
-      >Misuse of Drugs Act 1971</a
-    >. In response, I drafted advice to the Home Secretary, Priti Patel, and
-    Prime Minister Boris Johnson, enabling us to continue operating as a quorum
-    advisory council.
-  </p>
-
-  <p class="pb-2">
-    Furthermore, I wrote advice suggesting a revised definition of research
-    organisations, aiming for more lenient regulations around the use of SCRAs
-    to aid UK research. Additionally, I drafted advice suggesting changes to the
-    classification of expected products, which would allow the legal sale of
-    commercial CBD products. We also recommended limitations on psychoactive
-    substance impurities within CBD, guided by the latest understanding of their
-    side effects. To support the Home Office, I conducted a comprehensive
-    analysis of the
-    <NuxtLink to="/projects/pulse_survey" class="link-primary link"
-      >Pulse Survey</NuxtLink
-    >
-    results for our department. Moreover, to foster connections within my
-    cohort, I developed a
+      >the research barriers caused by regulations on Synthetic Cannabinoid
+      Receptor Agonists (SCRA)</a
+    >. I drafted advice to address to the prime minister and home secretary
+    about a constitutional crisis at the ACMD. Simultaneously, I developed a
     <NuxtLink to="/projects/coffee_roulette" class="link-primary link"
       >"coffee roulette"</NuxtLink
     >
-    application to facilitate weekly introductions among members.
-  </p>
-
-  <p>
-    These actions led to several noteworthy results. The advice provided to the
-    Home Secretary and the Prime Minister ensured that the ACMD remained quorate
-    and successfully hired and retained the required number of members. In
-    response to the advice on SCRA, the government commissioned further work to
-    investigate this in context with all other Schedule 1 compounds. The ACMD's
-    recommendations on CBD are still awaiting a government response. The
-    analysis of the Pulse survey resulted in the Home Office forming
-    subcommittees to address highlighted issues, some of which I participated in
-    before concluding my role. Lastly, the coffee roulette initiative was so
-    successful that I set up several similar networking initiatives within the
-    Faststream community, with one of these currently engaging over 500
-    participants as of 2023.
+    application to enhance connectivity within my Faststream cohort and
+    conducted a thorough analysis of the
+    <NuxtLink to="/projects/pulse_survey" class="link-primary link"
+      >Pulse Survey</NuxtLink
+    >
+    results to help guide departmental responses to COVID-19. These efforts
+    contributed to ACMD's continued operations, informed government research
+    strategies, and fostered a closer, more supportive Faststream community.
   </p>
 
   <ProjectCarousel :projects="faststream_projects" />
