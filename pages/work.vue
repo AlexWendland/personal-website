@@ -69,6 +69,10 @@
       usage led to a significant cost reduction, and the products developed
       under my tenure contributed substantially to the company's annual revenue.
     </p>
+    <Quote
+    quote="Alex has very clear thinking and logic, which can be seen from his analytical, programming, leadership, and planning ability."
+    author="Anonymous feedback"
+  />
   </div>
 
   <ProjectCarousel :projects="ccdata_projects" />
@@ -135,7 +139,33 @@
     Teacher and Lecturer: September 2014 - April 2020
   </h4>
 
-  List my activities teaching here.
+  I was employed by
+  <a href="https://warwick.ac.uk/fac/sci/maths/" class="link-primary link"
+    >Warwick Maths department</a
+  >
+  to give lectures for the 4th year course Group Theory and covered lectures for
+  the 3rd year course Groups and Representations. In the initial feedback for
+  the 4th year group theory the course I received the comment:
+  <Quote
+    quote="Alex is one of the best lecturers I've ever had"
+    author="Anonymous feedback"
+  />
+  Employed by Warwick Maths and
+  <a href="https://warwick.ac.uk/fac/sci/dcs/" class="link-primary link"
+    >Computer Science</a
+  >
+  Departments to run the Support Classes for the modules: Analysis 1, Discrete
+  Maths and its Applications 2, Experimental Maths, Geometric group theory,
+  Group Theory, Groups and Representations, Lie Algebras, and Set Theory. I
+  received the following feedback when I won the student voted Postgraduate
+  teaching award in 2017:
+  <Quote
+    quote="Just an all round nice guy who marks work quickly and gives good
+    feedback with amazing subject knowledge"
+    author="Anonymous feedback"
+  />
+  I have taught in all formats for 1-1 sessions with struggling students to
+  running 400 people lectures.
 </template>
 
 <script setup>
