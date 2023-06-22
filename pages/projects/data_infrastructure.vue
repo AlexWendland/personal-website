@@ -9,8 +9,7 @@
       monorepo. There was widespread duplication of code, often involving minor
       modifications to copied scripts. Client deliveries were conducted via
       these scripts, resulting in client complaints due to inconsistent service.
-      Additionally, the CTO did not fully trust Python for production purposes,
-      leading to hesitations in deploying revenue-generating Python scripts.
+      This lead to hesitations in deploying revenue-generating Python scripts.
       Lack of robust package management, absent application tests, and intricate
       data storage architecture were also posing significant problems. Moreover,
       the monitoring of our data quality was not up to par.

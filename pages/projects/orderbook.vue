@@ -3,10 +3,13 @@
     <p>
       Upon joining
       <a href="https://ccdata.io/" class="link-primary link">CC Data</a>, I
-      found that the development of an orderbook product was underway. However,
-      there were no established metrics to gauge the quality or accuracy of the
-      data used, and no clients were utilizing the product. Additionally, the
-      CTO lacked confidence in the product's value and potential.
+      found that the development of an
+      <a href="https://ccdata.io/data/order-book" class="link-primary link"
+        >orderbook product</a
+      >
+      was underway. However, there were no established metrics to gauge the
+      quality or accuracy of the data used, and no clients were utilizing the
+      product.
     </p>
 
     <p>
