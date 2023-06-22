@@ -35,81 +35,39 @@
   <h4 class="block p-2 text-xl">
     Data Scientist: September 2021 - January 2023
   </h4>
+
   <div class="p-2">
-    <p class="pb-2">
-      <a href="https://ccdata.io/" class="link-primary link">CC Data</a>,
-      formerly known as
+    <p>
+      In my roles as Data Scientist and later as Head of Data at
+      <a href="https://ccdata.io/" class="link-primary link">CC Data</a>
+      (formerly
       <a href="https://www.cryptocompare.com/" class="link-primary link"
         >CryptoCompare</a
-      >, a cryptocurrency data provider, was in the process of scaling up staff
-      and transitioning from a retail focus to the institutional market.
-    </p>
-
-    <p class="pb-2">
-      In my roles as a Data Scientist and later as Head of Data, my
-      responsibilities included product development, maintaining data quality,
-      collaborating with clients on tailored data sets, and managing the broader
-      data team to build tools and establish supporting structures.
-    </p>
-
-    <p class="pb-2">
-      I initially collaborated with the
+      >), a cryptocurrency data provider, I spearheaded
       <NuxtLink to="/projects/orderbook" class="link-primary link"
-        >Orderbook</NuxtLink
+        >product development</NuxtLink
       >
-      team to create data quality metrics and enhance data surveillance. This
-      groundwork allowed me to work closely with multiple clients, calculating
-      derived metrics, refining orderbook data sets, and guaranteeing the
-      superior quality of the products delivered. I innovated by researching how
-      to integrate
+      and data quality management during a pivotal transition towards the
+      institutional market. Working closely with clients, I customized data sets
+      to their needs, introduced metrics for data quality, and developed a
+      product for integrating
       <NuxtLink to="/projects/dex_integration" class="link-primary link"
         >Decentralized Exchanges (DEXs)</NuxtLink
       >
-      from on-chain data, ultimately handing off this product to our engineering
-      team.
-    </p>
-
-    <p class="pb-2">
-      To enhance our
-      <NuxtLink to="/projects/data_infrastructure" class="link-primary link"
-        >technical infrastructure</NuxtLink
-      >, I transitioned the data team onto a Kubernetes tech stack, establishing
-      a CI/CD pipeline using GitHub Actions and started moving more data in to
-      Google Big Query. I also
+      from on-chain data. To improve the
       <NuxtLink to="/projects/data_organisation" class="link-primary link"
-        >reorganised</NuxtLink
+        >data team's effectiveness</NuxtLink
+      >, I established a problem-centric work approach and
+      <NuxtLink to="/projects/data_infrastructure" class="link-primary link"
+        >transitioned the data tech stack</NuxtLink
       >
-      the larger data team to address shared issues in a problem-centric way and
-      to optimize resource management. This necessitated the implementation of
-      new organizational processes, frequent communication across teams, and
-      conducting quarterly retrospectives.
-    </p>
-
-    <p class="pb-2">
-      Additionally, I undertook a
-      <NuxtLink to="/projects/cost_optimisation" class="link-primary link"
-        >detailed study</NuxtLink
+      to Kubernetes, implementing a CI/CD pipeline using GitHub Actions. My
+      proactive
+      <NuxtLink to="/projects/data_infrastructure" class="link-primary link"
+        >review of Azure service</NuxtLink
       >
-      of our Azure service usage and costs, leading to the creation of a
-      comprehensive monthly report.
-    </p>
-
-    <p>
-      The products developed under my guidance contributed to the onboarding of
-      new clients, accounting for 4% of the company's annual revenue. My
-      research and subsequent restructuring of Azure Infrastructure usage led to
-      a 15% reduction in related costs, effectively cutting the company's
-      overall cost by 2%. Moreover, I drove the research and development of
-      multiple new products, including
-      <a href="https://ccdata.io/data/on-chain-data" class="link-primary link"
-        >DEX integrations</a
-      >,
-      <a href="https://ccdata.io/data/order-book" class="link-primary link"
-        >orderbook metrics</a
-      >, and a
-      <a href="https://ccdata.io/data/data-catalogue" class="link-primary link"
-        >data catalog</a
-      >.
+      usage led to a significant cost reduction, and the products developed
+      under my tenure contributed substantially to the company's annual revenue.
     </p>
   </div>
 
@@ -121,48 +79,50 @@
     </h3>
   </ShiftedAnchor>
   <h4 class="block p-2 text-xl">Faststreamer: October 2020 - August 2021</h4>
-
-  <p>
-    During my time on the
-    <a
-      href="https://www.faststream.gov.uk/science-engineering/index.html"
-      class="link-primary link"
-      >Science and Engineering Faststream</a
-    >, a three-year leadership program, I was assigned to the Home Office on the
-    <a
-      href="https://www.gov.uk/government/organisations/advisory-council-on-the-misuse-of-drugs"
-      class="link-primary link"
-      >Advisory Council on the Misuse of Drugs (ACMD)</a
-    >. I worked closely with the council to
-    <NuxtLink to="/projects/reports" class="link-primary link"
-      >deliver key advice</NuxtLink
-    >
-    to the government on regulations concerning
-    <a
-      href="https://www.gov.uk/government/publications/acmd-advice-on-consumer-cannabidiol-cbd-products"
-      class="link-primary link"
-      >commercial CBD products</a
-    >
-    and
-    <a
-      href="https://www.gov.uk/government/publications/consideration-of-barriers-to-research-part-1"
-      class="link-primary link"
-      >the research barriers caused by regulations on Synthetic Cannabinoid
-      Receptor Agonists (SCRA)</a
-    >. I drafted advice to address to the prime minister and home secretary
-    about a constitutional crisis at the ACMD. Simultaneously, I developed a
-    <NuxtLink to="/projects/coffee_roulette" class="link-primary link"
-      >"coffee roulette"</NuxtLink
-    >
-    application to enhance connectivity within my Faststream cohort and
-    conducted a thorough analysis of the
-    <NuxtLink to="/projects/pulse_survey" class="link-primary link"
-      >Pulse Survey</NuxtLink
-    >
-    results to help guide departmental responses to COVID-19. These efforts
-    contributed to ACMD's continued operations, informed government research
-    strategies, and fostered a closer, more supportive Faststream community.
-  </p>
+  <div class="p-2">
+    <p>
+      During my time on the
+      <a
+        href="https://www.faststream.gov.uk/science-engineering/index.html"
+        class="link-primary link"
+        >Science and Engineering Faststream</a
+      >, a three-year leadership program, I was assigned to the Home Office on
+      the
+      <a
+        href="https://www.gov.uk/government/organisations/advisory-council-on-the-misuse-of-drugs"
+        class="link-primary link"
+        >Advisory Council on the Misuse of Drugs (ACMD)</a
+      >. I worked closely with the council to
+      <NuxtLink to="/projects/reports" class="link-primary link"
+        >deliver key advice</NuxtLink
+      >
+      to the government on regulations concerning
+      <a
+        href="https://www.gov.uk/government/publications/acmd-advice-on-consumer-cannabidiol-cbd-products"
+        class="link-primary link"
+        >commercial CBD products</a
+      >
+      and
+      <a
+        href="https://www.gov.uk/government/publications/consideration-of-barriers-to-research-part-1"
+        class="link-primary link"
+        >the research barriers caused by regulations on Synthetic Cannabinoid
+        Receptor Agonists (SCRA)</a
+      >. I drafted advice to address to the prime minister and home secretary
+      about a constitutional crisis at the ACMD. Simultaneously, I developed a
+      <NuxtLink to="/projects/coffee_roulette" class="link-primary link"
+        >"coffee roulette"</NuxtLink
+      >
+      application to enhance connectivity within my Faststream cohort and
+      conducted a thorough analysis of the
+      <NuxtLink to="/projects/pulse_survey" class="link-primary link"
+        >Pulse Survey</NuxtLink
+      >
+      results to help guide departmental responses to COVID-19. These efforts
+      contributed to ACMD's continued operations, informed government research
+      strategies, and fostered a closer, more supportive Faststream community.
+    </p>
+  </div>
 
   <ProjectCarousel :projects="faststream_projects" />
 
