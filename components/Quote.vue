@@ -15,12 +15,12 @@
     <p class="text-xl font-semibold italic">
       {{ quote }}
     </p>
-    <p class="pl-4 pt-4">- {{ author }}</p>
+    <p v-if=href class="pl-4 pt-4">- <a :href=href class="link-primary link">{{ author }}</a></p><p v-else class="pl-4 pt-4">- {{ author }}</p>
   </blockquote>
 </template>
 
 <script setup>
-const { quote, author } = defineProps({
+const { quote, author, href } = defineProps({
   quote: {
     type: String,
     required: true,
@@ -29,6 +29,11 @@ const { quote, author } = defineProps({
     type: String,
     required: false,
     default: "Unknown",
+  },
+  href: {
+    type: String,
+    required: false,
+    default: "",
   },
 });
 </script>

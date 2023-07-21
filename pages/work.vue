@@ -70,8 +70,9 @@
       under my tenure contributed substantially to the company's annual revenue.
     </p>
     <Quote
-    quote="Alex has very clear thinking and logic, which can be seen from his analytical, programming, leadership, and planning ability."
-    author="Anonymous feedback"
+    quote=" Alex's attention to detail, commitment to maintaining high standards, effective communication skills, enthusiastic attitude, and exceptional teamwork greatly impacted our projects."
+    author="Jimena León, Head of Index Operations, CC Data"
+    href="https://www.linkedin.com/in/jimena-leon-testa/"
   />
   </div>
 
