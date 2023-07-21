@@ -132,7 +132,7 @@ const work = {
       link: "/work#man",
     },
     {
-      name: "Head of Data, CC-Data",
+      name: "Head of Data, CC Data",
       link: "/work#ccdata",
     },
     {
