@@ -58,14 +58,11 @@ const values = [
     explanation:
       "\
       If you got randomly reallocated bodies with someone else in society - how \
-      afraid would you be? If you are afraid, then we are not equal.\n\n \
+      afraid would you be? If you are afraid, then we are not equal.<br><br> \
       Inequality for me means society is not working efficiently. If everyone in \
-      the world had the median eduction would you hold the position you \
-      currently do? If not, then society is not working efficiently.\n\n \
-      I try to improve myself, others around me, the processes that effect us, \
-      and the world at large. I do this in the most effective ways I can, \
-      prioritising impact over thous impacted. \
-    ",
+      the world had the same eduction as you would you hold the position you \
+      currently do? If not, then society is not working efficiently.\
+      ",
     quote_data: {
       quote:
         "Inequality can have a corrosive effect on economies and societies. It \
@@ -75,7 +72,7 @@ const values = [
     evidence: [
       'Making \<a href="https://www.givingwhatwecan.org/pledge" class="text-decoration-line: underline"\>the Pledge to give\<\/a\>,\<\/li\>',
       "Be objective when providing opportunities, and",
-      "Being data driven when making decisions.</li>",
+      "Being data driven when making decisions.",
     ],
   },
   {
@@ -85,8 +82,11 @@ const values = [
       To improve is to make something score higher in an objective function. \
       Normally actions have payoffs - you might make a wheel spin faster but be \
       more vulnerable to breaking. Nothing is permanent so why not make that \
-      change agree with your values? After all, actions are what matter. \
-    ",
+      change agree with your values? After all, actions are what matter. <br><br> \
+      I try to improve myself, others around me, the processes that effect us, \
+      and the world at large. I do this in the most effective ways I can, \
+      prioritising impact over thous impacted. \
+      ",
     quote_data: {
       quote:
         "Efficiency is doing things right; effectiveness is doing the right \
