@@ -31,7 +31,7 @@
       </ul>
     </div>
     <div
-      class="carousel-vertical carousel rounded-box h-96 w-full flex-initial"
+      class="carousel-vertical carousel rounded-box h-96 w-full flex-initial sm:pl-4"
     >
       <div id="values" class="carousel-item h-full">
         <AboutCard :about_card="values" />
