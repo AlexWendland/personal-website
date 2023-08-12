@@ -39,8 +39,10 @@
       friends, especially with one member being remote and having different work
       habits, underscored the importance of effective communication and
       collaboration. Even though we didn't pursue the project further, it honed
-      my abilities in project and time management, and it also taught me the
-      crucial skill of determining priorities for an initial product release.
+      my abilities in project and time management (I was also working on my
+      <NuxtLink class="link link-primary" to="/projects/bernoulli_factory">first research project</NuxtLink>
+      that summer!), and it also taught me the crucial skill of determining
+      priorities for an initial product release.
     </p>
 
   </Project>
