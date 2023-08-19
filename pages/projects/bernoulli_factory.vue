@@ -1,12 +1,9 @@
 <template>
   <Project project_name="bernoulli_factory">
     <p class="pb-2">
-      In the summer of 2013, I got funded by the
-      <a href="https://warwick.ac.uk/" class="link link-primary">University of Warwick</a>
-      to work under the guidance of
-      <a class="link link-primary" href="https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/latuszynski/">
-        Krzysztof Łatuszyński</a>
-      on an intriguing mathematical problem.
+      In the summer of 2013, I got funded by the <PlacesWarwick/>
+      to work under the guidance of <PeopleKrys title="true"/> on an intriguing
+      mathematical problem.
     </p>
     <p class="pb-2">
       Our problem was framed in the context of probability and had a seemingly
@@ -33,17 +30,18 @@
     <p class="pb-2">
       In 2022, after years of rigorous exploration, our research came to
       fruition. With the valuable assistance of
-      <a class="link link-primary" href="https://warwick.ac.uk/fac/sci/statistics/staff/research_students/morina/">
-        Giulio Morina</a>,
-      <a class="link link-primary" href="https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/latuszynski/">
-        Krzysztof Łatuszyński</a>
+      <PeopleGiulio/>, <PeopleKrys/>
       Ph.D. student, we published our findings in our paper
-      <a href="https://projecteuclid.org/journals/annals-of-applied-probability/volume-32/issue-1/From-the-Bernoulli-factory-to-a-dice-enterprise-via-perfect/10.1214/21-AAP1679.short" class="link link-primary">
-        From the Bernoulli factory to a dice enterprise via perfect sampling of Markov
-        chains</a>.
+      <ResourcesBernouliPaper/>.
     </p>
     <p class="pb-2">
-      Reflecting upon this formative journey, I realize the value this experience added to my academic growth. My first dive into research was not just about solving a mathematical problem; it was about embracing the unknown, persevering through challenges, and ultimately contributing to the broader scientific discourse. This experience continues to shape my approach to problem-solving and research today, nurturing in me an undying curiosity and a relentless pursuit of knowledge.
+      Reflecting upon this formative journey, I realize the value this
+      experience added to my academic growth. My first dive into research was
+      not just about solving a mathematical problem; it was about embracing the
+      unknown, persevering through challenges, and ultimately contributing to
+      the broader scientific discourse. This experience continues to shape my
+      approach to problem-solving and research today, nurturing in me an undying
+      curiosity and a relentless pursuit of knowledge.
     </p>
   </Project>
 </template>

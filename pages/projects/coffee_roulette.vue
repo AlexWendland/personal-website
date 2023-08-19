@@ -1,12 +1,7 @@
 <template>
   <Project project_name="coffee_roulette">
     <p class="pb-2">
-      During my time in the
-      <a
-        href="https://www.faststream.gov.uk/science-engineering/index.html"
-        class="link-primary link"
-        >Science and Engineering Faststream</a
-      >, a competitive leadership program in the civil service, I recognized the
+      During my time in the <PlacesFaststream/>, a competitive leadership program in the civil service, I recognized the
       impact the COVID-19 crisis was having on the cohesion within our cohort. I
       identified a need for a tool that would facilitate connection and
       engagement between members to counter the isolation experienced during the

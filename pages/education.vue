@@ -41,9 +41,7 @@
   <p class="pb-2">
     During my PhD at the University of Warwick, I delved into the realms of
     graph theory and group theory under the guidance of
-    <a href="https://homepages.warwick.ac.uk/~maslar/" class="link-primary link"
-      >Professor Agelos Georgakopoulos</a
-    >. My research was an engaging journey through complex mathematical
+    <PeopleAgelos title="true"/>. My research was an engaging journey through complex mathematical
     principles and theory, which was both intellectually challenging and
     rewarding. The community at Warwick was a source of inspiration and support,
     composed of an array of brilliant and kind individuals who continually

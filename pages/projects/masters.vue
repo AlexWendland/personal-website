@@ -1,8 +1,7 @@
 <template>
   <Project project_name="masters_thesis">
     <p class="pb-2">
-      For my masters thesis I worked with
-      <a class="link link-primary" href="https://warwick.ac.uk/fac/sci/maths/people/staff/dmitriy_rumynin/">Dmitriy Rumynin</a>
+      For my masters thesis I worked with <PeopleDmitriy title="true"/>
       on an area of Maths called 2-Category theory. We wanted to make these
       abstract objects more concrete via representation and character theory.
     </p>

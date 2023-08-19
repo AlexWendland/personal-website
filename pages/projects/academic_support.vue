@@ -1,21 +1,19 @@
 <template>
   <Project project_name="academic_support">
     <p class="pb-2">
-      One of my most defining experiences during my time at the
-      <a href="https://warwick.ac.uk/" class="link link-primary">University of Warwick</a>
+      One of my most defining experiences during my time at the <PlacesWarwick/>
       came from serving as the Academic Support Officer for the
-      <a href="https://www.warwicksu.com/societies-sports/societies/maths/" class="link link-primary">Warwick Maths Society</a>.
-      It was a period of intense dedication, hard work, and purposeful
-      commitment to strengthening the academic environment within our community.
+      <PlacesMathsSociety/>. It was a period of intense dedication, hard work,
+      and purposeful commitment to strengthening the academic environment within
+      our community.
     </p>
 
     <p class="pb-2">
       My journey began with a simple yet effective initiative - I organized my
       comprehensive collection of university notes and made them accessible to
-      all via
-      <a href="https://www.dropbox.com/sh/5m63moxv6csy8tn/AACcPd2m7UPHeGIfUNpH_iRza" class="link link-primary">Dropbox</a>.
-      This was a significant step towards enhancing the accessibility of notes
-      to students, particularly those who were unable to attend lectures.
+      all via <ResourcesDropbox/>. This was a significant step towards enhancing
+      the accessibility of notes to students, particularly those who were unable
+      to attend lectures.
     </p>
 
     <p class="pb-2">
