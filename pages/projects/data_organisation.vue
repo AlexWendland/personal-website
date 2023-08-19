@@ -1,11 +1,9 @@
 <template>
   <Project project_name="data_organisation">
     <p class="pb-2">
-      When I joined
-      <a href="https://ccdata.io/" class="link-primary link">CC Data</a>
-      in 2020, the data function was decentralized, with
-      data analysts from different teams working on disparate projects. Shared
-      resources such as a GitHub repository, servers, and surveillance
+      When I joined <PlacesCCData/> in 2020, the data function was decentralized,
+      with data analysts from different teams working on disparate projects.
+      Shared resources such as a GitHub repository, servers, and surveillance
       applications were managed haphazardly. Multiple problems resulted from
       this disjointed approach, such as code duplication, inefficient resource
       allocation, and a lack of shared best practices. Moreover, some critical

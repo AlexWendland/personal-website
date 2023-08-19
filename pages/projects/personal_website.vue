@@ -1,7 +1,7 @@
 <template>
   <Project project_name="personal_website">
     <p class="pb-2">
-      While I was at <NuxtLink class="link link-primary" to="/work#ccdata">CC-data</NuxtLink>, a baffling
+      While I was at <PlacesCCData/>, a baffling
       thought struck me: What really happens when we enter a website's address
       into our browser? Astonishingly, I didn't have a clear answer, even though
       I was part of a tech firm with a primary product accessed via a website.

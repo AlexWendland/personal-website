@@ -1,8 +1,7 @@
 <template>
   <Project project_name="data_infrastructure">
     <p>
-      When I joined
-      <a href="https://ccdata.io/" class="link-primary link">CC Data</a> I
+      When I joined <PlacesCCData/> I
       observed several challenges in our data infrastructure. The data team, who
       worked in python, was heavily reliant on a central
       <a href="https://github.com/" class="link-primary link">GitHub</a>

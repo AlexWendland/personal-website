@@ -1,8 +1,7 @@
 <template>
   <Project project_name="dex_integration">
     <p class="pb-2">
-      When I was serving as the Head of Data at
-      <a href="https://ccdata.io/" class="link-primary link">CC Data</a>, we had
+      When I was serving as the Head of Data at <PlacesCCData/>, we had
       offerings for both centralized exchange (CEX) and decentralized exchange
       (DEX) data. While CEX data was directly handled by us, the DEX data was
       sourced from a third-party provider. This data represented exchanges

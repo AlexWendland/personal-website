@@ -1,9 +1,7 @@
 <template>
   <Project project_name="orderbook">
     <p>
-      Upon joining
-      <a href="https://ccdata.io/" class="link-primary link">CC Data</a>, I
-      found that the development of an
+      Upon joining <PlacesCCData/>, I found that the development of an
       <a href="https://ccdata.io/data/order-book" class="link-primary link"
         >orderbook product</a
       >

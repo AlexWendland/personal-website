@@ -1,8 +1,7 @@
 <template>
   <Project project_name="cost_optimisation">
     <p class="pb-2">
-      During my time as Head of Data at
-      <a href="https://ccdata.io/" class="link-primary link">CC Data</a>, a
+      During my time as Head of Data at <PlacesCCData/>, a
       cryptocurrency data provider, we were faced with a concerning situation.
       Our infrastructure costs, based in
       <a href="https://azure.microsoft.com/en-us/" class="link-primary link"

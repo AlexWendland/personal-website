@@ -1,19 +1,10 @@
 <template>
   <Project project_name="pulse_survey">
     <p class="pb-2">
-      As part of my role in the
-      <a
-        href="https://www.faststream.gov.uk/science-engineering/index.html"
-        class="link-primary link"
-        >Science and Engineering Faststream</a
-      >, a program focused on integrating STEM knowledge into the civil service,
-      I was assigned to the Home Office on the
-      <a
-        href="https://www.gov.uk/government/organisations/advisory-council-on-the-misuse-of-drugs"
-        class="link-primary link"
-        >Advisory Council on the Misuse of Drugs (ACMD)</a
-      >
-      during the COVID-19 crisis. In addition to my primary responsibilities, I
+      As part of my role in the <PlacesFaststream/>, a program focused on
+      integrating STEM knowledge into the civil service, I was assigned to the
+      Home Office on the <PlacesACMD/> during the COVID-19 crisis. In addition
+      to my primary responsibilities, I
       was tasked with conducting a comprehensive analysis of the Pulse Survey
       results for our department. The objective was to assess the overall impact
       of the pandemic on our department and to provide actionable insights to

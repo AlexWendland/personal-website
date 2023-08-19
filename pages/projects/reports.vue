@@ -7,11 +7,9 @@
         class="link-primary link"
         >Advisory Council on the Misuse of Drugs (ACMD)</a
       >
-      during my tenure on the
-      <a href="https://www.faststream.gov.uk/" class="link-primary link"
-        >Faststream</a
-      >. The ACMD was dealing with a constitutional crisis concerning quorum
-      maintenance which was critical for potential amendments to the
+      during my tenure on the <PlacesFaststream/>. The ACMD was dealing with a
+      constitutional crisis concerning quorum maintenance which was critical for
+      potential amendments to the
       <a
         href="https://www.legislation.gov.uk/ukpga/1971/38/contents"
         class="link-primary link"
