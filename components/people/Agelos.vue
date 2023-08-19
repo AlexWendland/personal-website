@@ -11,7 +11,7 @@
     format: {
       type: String,
       required: false,
-      default: "link"
+      default: "link link-primary"
     },
     title: {
       type: Boolean,
