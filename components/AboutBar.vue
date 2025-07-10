@@ -119,6 +119,10 @@ const personal_projects = {
       name: "Obsidian",
       link: "/projects/obsidian",
     },
+    {
+      name: "Games website",
+      link: "/projects/games_website",
+    }
   ],
 };
 const work = {

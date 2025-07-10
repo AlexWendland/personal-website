@@ -22,8 +22,12 @@
   </ShiftedAnchor>
   <h4 class="block p-2 text-xl">Engineer: July 2023 - Current</h4>
   <div class="p-2">
-    I am starting as a Software Engineer at
-    <a href="https://www.man.com/" class="link-primary link">Man Group</a>.
+    I have been a software engineer at <a href="https://www.man.com/" class="link-primary link">Man Group</a> for 2 years.
+    I was in the Codex team who ran the primary Alternative data onboarding platform for the company.
+    We had hundreds of ETL pipelines running daily that were required by trading strategies.
+    It really helped me understand how data worked at scale and the difficulties that came with that.
+    We had many in-house tools such as a custom ETL platform, custom data catalogue, and mapping solution.
+    In my time I helped build out an event driven data quality framework, start moving us to iceberg instead of arcticDB, and built integrations from python to C# with an Apache flight server.
   </div>
 
   <ShiftedAnchor required_id="ccdata">
