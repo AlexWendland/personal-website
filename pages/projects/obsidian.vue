@@ -31,7 +31,7 @@
 
     <p class="pb-2">
       I've taken the initiative to host a
-      <a href="https://obsidian.awendland.co.uk" class="link link-primary">public vault</a>,
+      <a href="https://notes.awendland.co.uk" class="link link-primary">public vault</a>,
       which is a curated collection of my notes and insights as I journey
       through my development career. Think of it as a peek into my cognitive
       realm, where I synthesize information from varied sources, with a keen

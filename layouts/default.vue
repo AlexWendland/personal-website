@@ -28,7 +28,7 @@
             <li>
               <NuxtLink to="/">Homepage</NuxtLink>
             </li>
-            <li><a href="https://obsidian.awendland.co.uk">Obsidian</a></li>
+            <li><a href="https://notes.awendland.co.uk">Notes</a></li>
             <li><a href="https://games.awendland.co.uk">Games site</a></li>
             <li><a href="https://github.com/AlexWendland">Github</a></li>
             <li>
